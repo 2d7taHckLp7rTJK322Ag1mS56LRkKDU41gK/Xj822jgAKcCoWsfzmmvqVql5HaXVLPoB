@@ -1,4 +1,3 @@
-
 ---
 layout: album_gallery
 resource: facebook
@@ -7,50 +6,41 @@ description: "archive"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
-    
-    - image_path: /gallery/1/0_735199491985977_407421223_735202895318970_3173217056734513278_n.jpg
-      gallery-folder: /gallery/1/
-      gallery-name: 1
-      gallery-date: February 2025
-            
-    - image_path: /gallery/2/933956455443612_455791982_895177445988180_3848477980997913170_n.jpg
-      gallery-folder: /gallery/2/
-      gallery-name: 2
-      gallery-date: February 2025
-            
-    - image_path: /gallery/3/821408620031730_439338047_821408613365064_1576648697324144870_n.jpg
-      gallery-folder: /gallery/3/
-      gallery-name: 3
-      gallery-date: February 2025
-            
-    - image_path: /gallery/4/981154847390439_470558387_981155334057057_2748399156994214981_n.jpg
-      gallery-folder: /gallery/4/
-      gallery-name: 4
-      gallery-date: February 2025
-            
-    - image_path: /gallery/5/949794837193107_465377609_949795180526406_5632811992209379223_n.jpg
-      gallery-folder: /gallery/5/
-      gallery-name: 5
-      gallery-date: February 2025
-            
-    - image_path: /gallery/6/866556695516922_449703020_866557528850172_7596859422021377586_n.jpg
-      gallery-folder: /gallery/6/
-      gallery-name: 6
-      gallery-date: February 2025
-            
-    - image_path: /gallery/7/856133023225956_448503460_856133639892561_736650536545523508_n.jpg
-      gallery-folder: /gallery/7/
-      gallery-name: 7
-      gallery-date: February 2025
-            
-    - image_path: /gallery/8/946229580882966_464775050_946229584216299_1589866296519935814_n.jpg
-      gallery-folder: /gallery/8/
-      gallery-name: 8
-      gallery-date: February 2025
-            
-    - image_path: /gallery/9/784541643718428_428637957_784543480384911_3194697770470160353_n.jpg
-      gallery-folder: /gallery/9/
-      gallery-name: 9
-      gallery-date: February 2025
+- image_path: /vay_dai/1/0_735199648652628_401354287_735203008652292_6741644256357423420_n.jpg
+  gallery-folder: /gallery/vay_dai/1/
+  gallery-name: 1
+  gallery-date: February 2025
+            - image_path: /vay_dai/2/852659123573346_448210614_852659306906661_759107213090235853_n.jpg
+  gallery-folder: /gallery/vay_dai/2/
+  gallery-name: 2
+  gallery-date: February 2025
+            - image_path: /vay_dai/3/821407930031799_439713533_821411603364765_5526509593902443298_n.jpg
+  gallery-folder: /gallery/vay_dai/3/
+  gallery-name: 3
+  gallery-date: February 2025
+            - image_path: /vay_dai/4/981154954057095_470228837_981154957390428_1736305224531546922_n.jpg
+  gallery-folder: /gallery/vay_dai/4/
+  gallery-name: 4
+  gallery-date: February 2025
+            - image_path: /vay_dai/5/985486243623966_471228611_985486620290595_7164690260672081099_n.jpg
+  gallery-folder: /gallery/vay_dai/5/
+  gallery-name: 5
+  gallery-date: February 2025
+            - image_path: /vay_dai/6/977629744409616_469802465_977630751076182_3296124266379559407_n.jpg
+  gallery-folder: /gallery/vay_dai/6/
+  gallery-name: 6
+  gallery-date: February 2025
+            - image_path: /vay_dai/7/966955195477071_468324037_966957092143548_6668088803100847731_n.jpg
+  gallery-folder: /gallery/vay_dai/7/
+  gallery-name: 7
+  gallery-date: February 2025
+            - image_path: /vay_dai/8/847740427398549_446864810_847741880731737_3764690843937171460_n.jpg
+  gallery-folder: /gallery/vay_dai/8/
+  gallery-name: 8
+  gallery-date: February 2025
+            - image_path: /vay_dai/9/756806766491916_417132987_756807073158552_2804142568417240378_n.jpg
+  gallery-folder: /gallery/vay_dai/9/
+  gallery-name: 9
+  gallery-date: February 2025
             
 ---

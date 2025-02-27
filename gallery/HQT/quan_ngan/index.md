@@ -1,4 +1,3 @@
-
 ---
 layout: album_gallery
 resource: facebook
@@ -7,60 +6,49 @@ description: "archive"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
-    
-    - image_path: /gallery/1/972423668263557_468982827_972423671596890_26327619406877993_n.jpg
-      gallery-folder: /gallery/1/
-      gallery-name: 1
-      gallery-date: February 2025
-            
-    - image_path: /gallery/10/890505383122053_455003576_890505389788719_999997399782475203_n.jpg
-      gallery-folder: /gallery/10/
-      gallery-name: 10
-      gallery-date: February 2025
-            
-    - image_path: /gallery/11/764653952373864_420659929_764654165707176_8477301894044701313_n.jpg
-      gallery-folder: /gallery/11/
-      gallery-name: 11
-      gallery-date: February 2025
-            
-    - image_path: /gallery/2/719731810199412_409166047_739393214899938_3160519487524329257_n.jpg
-      gallery-folder: /gallery/2/
-      gallery-name: 2
-      gallery-date: February 2025
-            
-    - image_path: /gallery/3/742842181221709_413034305_746939007478692_444943938158947097_n.jpg
-      gallery-folder: /gallery/3/
-      gallery-name: 3
-      gallery-date: February 2025
-            
-    - image_path: /gallery/4/884170440422215_449835227_871955474977044_1921893814689401389_n.jpg
-      gallery-folder: /gallery/4/
-      gallery-name: 4
-      gallery-date: February 2025
-            
-    - image_path: /gallery/5/752107720295154_416167700_752108106961782_3699927863603518687_n.jpg
-      gallery-folder: /gallery/5/
-      gallery-name: 5
-      gallery-date: February 2025
-            
-    - image_path: /gallery/6/866634665509125_449787281_866634925509099_629688653324576868_n.jpg
-      gallery-folder: /gallery/6/
-      gallery-name: 6
-      gallery-date: February 2025
-            
-    - image_path: /gallery/7/896524475853478_457208536_901386595367265_5046484234469745450_n.jpg
-      gallery-folder: /gallery/7/
-      gallery-name: 7
-      gallery-date: February 2025
-            
-    - image_path: /gallery/8/993999972772593_472116190_994000679439189_3883177778170931087_n.jpg
-      gallery-folder: /gallery/8/
-      gallery-name: 8
-      gallery-date: February 2025
-            
-    - image_path: /gallery/9/882976203874971_453405467_882977353874856_3254195893917336835_n.jpg
-      gallery-folder: /gallery/9/
-      gallery-name: 9
-      gallery-date: February 2025
+- image_path: /quan_ngan/1/972423611596896_469065282_972423938263530_5392895289641892678_n.jpg
+  gallery-folder: /gallery/quan_ngan/1/
+  gallery-name: 1
+  gallery-date: February 2025
+            - image_path: /quan_ngan/10/863285532510705_449333213_863286305843961_4749179638309877709_n.jpg
+  gallery-folder: /gallery/quan_ngan/10/
+  gallery-name: 10
+  gallery-date: February 2025
+            - image_path: /quan_ngan/11/764509035721689_420243019_764509362388323_8046645778955098518_n.jpg
+  gallery-folder: /gallery/quan_ngan/11/
+  gallery-name: 11
+  gallery-date: February 2025
+            - image_path: /quan_ngan/2/737494951756431_408513396_737742525065007_6713803543769286542_n.jpg
+  gallery-folder: /gallery/quan_ngan/2/
+  gallery-name: 2
+  gallery-date: February 2025
+            - image_path: /quan_ngan/3/746938564145403_412987292_746938900812036_8019728670564692184_n.jpg
+  gallery-folder: /gallery/quan_ngan/3/
+  gallery-name: 3
+  gallery-date: February 2025
+            - image_path: /quan_ngan/4/868427345329857_454442915_886700846835840_7039364335139616859_n.jpg
+  gallery-folder: /gallery/quan_ngan/4/
+  gallery-name: 4
+  gallery-date: February 2025
+            - image_path: /quan_ngan/5/752107773628482_416020912_752108123628447_6346166213838952666_n.jpg
+  gallery-folder: /gallery/quan_ngan/5/
+  gallery-name: 5
+  gallery-date: February 2025
+            - image_path: /quan_ngan/6/866634708842454_449522795_866634968842428_8862296535158701689_n.jpg
+  gallery-folder: /gallery/quan_ngan/6/
+  gallery-name: 6
+  gallery-date: February 2025
+            - image_path: /quan_ngan/7/896524475853478_457243130_901386648700593_4429108714337650642_n.jpg
+  gallery-folder: /gallery/quan_ngan/7/
+  gallery-name: 7
+  gallery-date: February 2025
+            - image_path: /quan_ngan/8/953290670176857_465553273_953291456843445_7910453347869739704_n.jpg
+  gallery-folder: /gallery/quan_ngan/8/
+  gallery-name: 8
+  gallery-date: February 2025
+            - image_path: /quan_ngan/9/891743446331580_455711362_891743652998226_5464792338677997930_n.jpg
+  gallery-folder: /gallery/quan_ngan/9/
+  gallery-name: 9
+  gallery-date: February 2025
             
 ---

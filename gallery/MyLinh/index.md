@@ -1,4 +1,3 @@
-
 ---
 layout: album_gallery
 resource: facebook
@@ -7,20 +6,17 @@ description: "archive"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
-    
-    - image_path: /gallery/0/749187580665565_432778683_2164210693935961_2584002278189143949_n.jpg
-      gallery-folder: /gallery/0/
-      gallery-name: 0
-      gallery-date: February 2025
-            
-    - image_path: /gallery/1/735180968732893_428699142_735180965399560_8888534547805628173_n.jpg
-      gallery-folder: /gallery/1/
-      gallery-name: 1
-      gallery-date: February 2025
-            
-    - image_path: /gallery/photo/839504381633884_456535341_839507414966914_3938319427304240233_n.jpg
-      gallery-folder: /gallery/photo/
-      gallery-name: photo
-      gallery-date: February 2025
+- image_path: /MyLinh/0/860928309491491_461107971_860928312824824_3767701243223423535_n.jpg
+  gallery-folder: /gallery/MyLinh/0/
+  gallery-name: 0
+  gallery-date: February 2025
+            - image_path: /MyLinh/1/897150609202594_466473770_897150615869260_7615628363601151143_n.jpg
+  gallery-folder: /gallery/MyLinh/1/
+  gallery-name: 1
+  gallery-date: February 2025
+            - image_path: /MyLinh/photo/710870491163941_420460214_710870691163921_218845496603156847_n.jpg
+  gallery-folder: /gallery/MyLinh/photo/
+  gallery-name: photo
+  gallery-date: February 2025
             
 ---
