@@ -38,10 +38,12 @@ layout: default
                             <!-- <img src="{{ image.image_path }}"></a> -->
                             {% if page.resource == 'facebook' %}
                             <img src="{{ site.resource.facebook }}{{ image.image_path }}"></a>
-                            {% elif page.resource == 'instagram' %}
+                            {% else %}
+                            {% if page.resource == 'instagram' %}
                             <img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
                             {% else %}
                             <img src="{{ image.image_path }}"></a>
+                            {% endif %}
                             {% endif %}
                             </header>	
                             <figcaption class='gallery-caption'>
