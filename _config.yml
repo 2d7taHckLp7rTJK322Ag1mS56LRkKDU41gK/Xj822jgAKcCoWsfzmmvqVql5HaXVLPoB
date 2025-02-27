@@ -7,12 +7,10 @@ baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
-# github_username:  ""
-# deviantart_username: ""
-# flickr_username: ""
-# discus_shortname: ""
 share: true
-
+resource:
+  facebook: https://gitlab.com/5991303e7401210b708b4632b305678a/ZmFjZWJvb2suY29t/-/raw/main/
+  instagram: https://gitlab.com/5991303e7401210b708b4632b305678a/ZmFjZWJvb2suY29t/-/raw/main/
 # Owner/author information
 owner:
   name:   photorama

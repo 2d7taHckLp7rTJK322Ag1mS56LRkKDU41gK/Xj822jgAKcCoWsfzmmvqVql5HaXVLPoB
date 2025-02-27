@@ -1,11 +1,11 @@
 ---
 layout: album
+resource: facebook
 title: "album"
 description: "masonry"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 album-title: "my 9th album"
-image_base_path: "https://gitlab.com/5991303e7401210b708b4632b305678a/ZmFjZWJvb2suY29t/-/raw/main/"
 images:
 - image_path: QuynhAlee/1/158672446164704_169465070_158672449498037_4593768615840575763_n.jpg
 - image_path: QuynhAlee/1/202135701818378_194911923_202135705151711_6978056439731106127_n.jpg
@@ -25,8 +25,16 @@ images:
 {% for image in page.images %}  		
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
-          <a href="{{ page.image_base_path }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-          <img src="{{ page.image_base_path }}{{ image.image_path }}"></a>
+					{% if page.resource == 'facebook' %}
+					<a href="{{ site.resource.facebook }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+					<img src="{{ site.resource.facebook }}{{ image.image_path }}"></a>
+					{% elif page.resource == 'instagram' %}
+					<a href="{{ site.resource.instagram }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+					<img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
+					{% else %}
+					<a href="{{ page.image_base_path }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+					<img src="{{ page.image_base_path }}{{ image.image_path }}"></a>
+					{% endif %}
 					</header>	
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary">
