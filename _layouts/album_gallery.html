@@ -42,7 +42,15 @@ layout: default
                             {% if page.resource == 'instagram' %}
                             <img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
                             {% else %}
-                            <img src="{{ image.image_path }}"></a>
+                                {% if image.resource == 'facebook' %}
+                                <img src="{{ site.resource.facebook }}{{ image.image_path }}"></a>
+                                {% else %}
+                                {% if image.resource == 'instagram' %}
+                                <img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
+                                {% else %}
+                                <img src="{{ image.image_path }}"></a>
+                                {% endif %}
+                                {% endif %}
                             {% endif %}
                             {% endif %}
                             </header>	

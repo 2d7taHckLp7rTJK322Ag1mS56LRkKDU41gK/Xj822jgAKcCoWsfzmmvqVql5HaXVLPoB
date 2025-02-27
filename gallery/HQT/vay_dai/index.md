@@ -11,35 +11,35 @@ images:
   gallery-folder: /gallery/vay_dai/1/
   gallery-name: 1
   gallery-date: February 2025
-- image_path: /vay_dai/2/926184286220829_461715827_926186729553918_493988020362254534_n.jpg
+- image_path: /vay_dai/2/934762148696376_462757298_934762528696338_4602065698359886500_n.jpg
   gallery-folder: /gallery/vay_dai/2/
   gallery-name: 2
   gallery-date: February 2025
-- image_path: /vay_dai/3/933956455443612_457126375_900677545438170_6663530224436041652_n.jpg
+- image_path: /vay_dai/3/827393159433276_440783295_827394009433191_6796279576389509130_n.jpg
   gallery-folder: /gallery/vay_dai/3/
   gallery-name: 3
   gallery-date: February 2025
-- image_path: /vay_dai/4/898547475651177_456705971_898547478984510_6231104882875601282_n.jpg
+- image_path: /vay_dai/4/926157402890184_461754877_926157406223517_2978244071002115004_n.jpg
   gallery-folder: /gallery/vay_dai/4/
   gallery-name: 4
   gallery-date: February 2025
-- image_path: /vay_dai/5/985486220290635_471225638_985486643623926_9183223627821121511_n.jpg
+- image_path: /vay_dai/5/949794843859773_465171115_949795147193076_2406861883297902006_n.jpg
   gallery-folder: /gallery/vay_dai/5/
   gallery-name: 5
   gallery-date: February 2025
-- image_path: /vay_dai/6/949017403937517_465152543_949017617270829_3177386057237837639_n.jpg
+- image_path: /vay_dai/6/877340774438514_450941014_872351251604133_6059978636258664988_n.jpg
   gallery-folder: /gallery/vay_dai/6/
   gallery-name: 6
   gallery-date: February 2025
-- image_path: /vay_dai/7/922972696541988_461279519_922972993208625_7860929775282106833_n.jpg
+- image_path: /vay_dai/7/957097056462885_461431893_922198983286026_5593105000971226174_n.jpg
   gallery-folder: /gallery/vay_dai/7/
   gallery-name: 7
   gallery-date: February 2025
-- image_path: /vay_dai/8/934648168707774_462902105_934650502040874_8571426218334246947_n.jpg
+- image_path: /vay_dai/8/847740427398549_445418387_847741727398419_5586447643166775675_n.jpg
   gallery-folder: /gallery/vay_dai/8/
   gallery-name: 8
   gallery-date: February 2025
-- image_path: /vay_dai/9/779844407521485_426422556_779845400854719_300540583655330205_n.jpg
+- image_path: /vay_dai/9/781118344060758_427805768_781118894060703_3093031127683144447_n.jpg
   gallery-folder: /gallery/vay_dai/9/
   gallery-name: 9
   gallery-date: February 2025

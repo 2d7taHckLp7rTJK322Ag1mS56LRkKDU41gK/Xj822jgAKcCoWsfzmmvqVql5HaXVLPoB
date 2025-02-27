@@ -7,19 +7,19 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /KIA/black/2021222718276767_471563825_18369666583138291_4708325128043502890_n.jpg
+- image_path: /KIA/black/1872182436514130_344717308_1199187533944665_3048414795759380128_n.jpg
   gallery-folder: /gallery/KIA/black/
   gallery-name: black
   gallery-date: February 2025
-- image_path: /KIA/color/1848994715499569_337668783_161888873045436_5765181247674745441_n.jpg
+- image_path: /KIA/color/1845911559141218_336886914_899780477805486_3093633050482807350_n.jpg
   gallery-folder: /gallery/KIA/color/
   gallery-name: color
   gallery-date: February 2025
-- image_path: /KIA/mix/2254161154982921_468570824_2254161164982920_2509745323134234712_n.jpg
+- image_path: /KIA/mix/1838939199838454_334972298_226608593160084_6957174728642814491_n.jpg
   gallery-folder: /gallery/KIA/mix/
   gallery-name: mix
   gallery-date: February 2025
-- image_path: /KIA/white/1864109393988101_341711035_1428645474549927_2374097382867725964_n.jpg
+- image_path: /KIA/white/1926785987720441_363406570_1926785974387109_8977823227494982448_n.jpg
   gallery-folder: /gallery/KIA/white/
   gallery-name: white
   gallery-date: February 2025
