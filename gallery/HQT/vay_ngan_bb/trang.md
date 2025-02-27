@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -31,3 +32,4 @@ images:
     - image_path: /gallery/HQT/vay_ngan_bb/trang/922902539882338_461747771_926924052813519_7982795407039140422_n.jpg
     - image_path: /gallery/HQT/vay_ngan_bb/trang/922902539882338_467308582_961620389343885_3596597549136221850_n.jpg
     - image_path: /gallery/HQT/vay_ngan_bb/trang/922902539882338_467426016_961620099343914_4345985393762544922_n.jpg
+---

@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -22,3 +23,4 @@ images:
     - image_path: /gallery/NguyenNhu(nana)/Album 10 - Satin/475898160_1340193863848786_8264642140957159204_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 10 - Satin/476020853_1340193857182120_8662202319884371200_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 10 - Satin/959432908591552_343755566_957134721963893_4612575637478186852_n.jpg
+---

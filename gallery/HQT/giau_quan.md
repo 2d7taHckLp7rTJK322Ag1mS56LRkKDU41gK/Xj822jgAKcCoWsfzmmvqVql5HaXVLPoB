@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -51,3 +52,4 @@ images:
     - image_path: /gallery/HQT/giau_quan/982468513925739_470496473_982471410592116_6191020017642082561_n.jpg
     - image_path: /gallery/HQT/giau_quan/982469200592337_470503146_982469203925670_720155632826387359_n.jpg
     - image_path: /gallery/HQT/giau_quan/982469257258998_470586891_982469260592331_2814861544500675361_n.jpg
+---

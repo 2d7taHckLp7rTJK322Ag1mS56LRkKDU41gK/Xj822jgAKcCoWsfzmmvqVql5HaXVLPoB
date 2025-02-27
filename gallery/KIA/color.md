@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -59,3 +60,4 @@ images:
     - image_path: /gallery/KIA/color/976364860193091_338403835_2185944648282454_6399740112463974409_n.jpg
     - image_path: /gallery/KIA/color/976364876859756_338903222_143085355378291_2441485232314896155_n.jpg
     - image_path: /gallery/KIA/color/979120183250892_339973089_522214533445029_7153355907347683400_n.jpg
+---

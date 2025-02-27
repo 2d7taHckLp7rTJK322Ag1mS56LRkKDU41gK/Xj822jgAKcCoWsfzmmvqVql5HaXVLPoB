@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -69,3 +70,4 @@ images:
     - image_path: /gallery/NguyenNhu(nana)/lung/968787094322800_346852161_768177378084728_1715191703002712092_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/lung/985585949309581_354030124_985585942642915_1340145378281565358_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/lung/987833365751506_355108253_987833362418173_2210407644985642692_n.jpg
+---

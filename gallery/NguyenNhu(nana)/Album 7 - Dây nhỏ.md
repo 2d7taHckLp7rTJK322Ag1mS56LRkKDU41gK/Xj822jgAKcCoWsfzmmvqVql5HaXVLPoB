@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -80,3 +81,4 @@ images:
     - image_path: /gallery/NguyenNhu(nana)/Album 7 - Dây nhỏ/962659338268909_344317389_944892163329790_7764589510809047755_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 7 - Dây nhỏ/969354007599442_347000434_545506501129457_8189145379745179706_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 7 - Dây nhỏ/970444584157051_347583114_523643093145309_4598932106990776204_n.jpg
+---

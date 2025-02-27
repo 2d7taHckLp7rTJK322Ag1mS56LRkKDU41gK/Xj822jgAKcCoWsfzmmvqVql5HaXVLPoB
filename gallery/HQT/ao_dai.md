@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -17,3 +18,4 @@ images:
     - image_path: /gallery/HQT/ao_dai/764660335706559_421625345_764660739039852_5471830904077643535_n.jpg
     - image_path: /gallery/HQT/ao_dai/764660362373223_420649486_764660749039851_5054642772826618083_n.jpg
     - image_path: /gallery/HQT/ao_dai/764660395706553_420649908_764660799039846_3255454815001472522_n.jpg
+---

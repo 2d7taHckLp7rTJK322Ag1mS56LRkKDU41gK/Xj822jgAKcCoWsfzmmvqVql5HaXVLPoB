@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -23,3 +24,4 @@ images:
     - image_path: /gallery/NguyenNhu(nana)/Album 9 - U/1192052351996272_438263304_1192052768662897_2615889717511191277_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 9 - U/1192052371996270_449145653_1192052775329563_1100427378474751721_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 9 - U/1250424029492437_461191478_1250424036159103_6522199576360731374_n.jpg
+---

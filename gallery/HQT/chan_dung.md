@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -23,3 +24,4 @@ images:
     - image_path: /gallery/HQT/chan_dung/849652457207346_447306565_849652453874013_3509906081544584875_n.jpg
     - image_path: /gallery/HQT/chan_dung/850901143749144_448044950_850901140415811_1767242971187549787_n.jpg
     - image_path: /gallery/HQT/chan_dung/987625863410004_471448100_987625866743337_6854498504518404174_n.jpg
+---

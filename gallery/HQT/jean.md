@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -82,3 +83,4 @@ images:
     - image_path: /gallery/HQT/jean/967590212080236_468396433_967590342080223_2734246631006784711_n.jpg
     - image_path: /gallery/HQT/jean/967590242080233_468496635_967590365413554_2423279999649443394_n.jpg
     - image_path: /gallery/HQT/jean/967590262080231_468404148_967590372080220_1624476119100750610_n.jpg
+---

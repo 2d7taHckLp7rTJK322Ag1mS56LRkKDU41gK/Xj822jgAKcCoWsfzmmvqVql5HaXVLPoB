@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -61,3 +62,4 @@ images:
     - image_path: /gallery/HQT/other/982619317243992_470633423_982619320577325_2494930534269277935_n.jpg
     - image_path: /gallery/HQT/other/982644387241485_470246286_982644823908108_1542347338351409601_n.jpg
     - image_path: /gallery/HQT/other/987653093407281_471554186_987653096740614_1549464941020558260_n.jpg
+---

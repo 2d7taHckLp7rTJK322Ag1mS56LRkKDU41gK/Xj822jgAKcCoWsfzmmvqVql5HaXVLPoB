@@ -1,5 +1,7 @@
 
+---
 layout: album_gallery
+resource: facebook
 title: "ALBUMS"
 description: "archive"
 active: gallery
@@ -11,48 +13,49 @@ images:
       gallery-name: 0
       gallery-date: February 2025
             
-    - image_path: /gallery/1/719107953595131_401069290_724206499751943_3022557745734163658_n.jpg
+    - image_path: /gallery/1/719107953595133_445423240_847007574138501_2460605780420920858_n.jpg
       gallery-folder: /gallery/1/
       gallery-name: 1
       gallery-date: February 2025
             
-    - image_path: /gallery/2/862235392615719_449263166_862235659282359_4552680483078328301_n.jpg
+    - image_path: /gallery/2/862235392615720_451777969_874377401401518_839324631495226478_n.jpg
       gallery-folder: /gallery/2/
       gallery-name: 2
       gallery-date: February 2025
             
-    - image_path: /gallery/3/869001978605727_450099062_869003658605559_7254383603344459318_n.jpg
+    - image_path: /gallery/3/869607458545179_450109856_869607758545149_6165365945381092615_n.jpg
       gallery-folder: /gallery/3/
       gallery-name: 3
       gallery-date: February 2025
             
-    - image_path: /gallery/4/911301551042436_459246735_911305567708701_888332655691887210_n.jpg
+    - image_path: /gallery/4/884216517084273_458640798_908708591301732_5305438545335232624_n.jpg
       gallery-folder: /gallery/4/
       gallery-name: 4
       gallery-date: February 2025
             
-    - image_path: /gallery/5/881800473992544_453159231_882136350625623_8537992834064599129_n.jpg
+    - image_path: /gallery/5/881800473992544_455670242_893783792794212_4162532143252699163_n.jpg
       gallery-folder: /gallery/5/
       gallery-name: 5
       gallery-date: February 2025
             
-    - image_path: /gallery/6/908502337989024_458581344_908502644655660_6342052770103453065_n.jpg
+    - image_path: /gallery/6/905252791647312_461596855_926186986220559_2232232640976488375_n.jpg
       gallery-folder: /gallery/6/
       gallery-name: 6
       gallery-date: February 2025
             
-    - image_path: /gallery/7/903354205170504_457432610_903354381837153_5610482059056191066_n.jpg
+    - image_path: /gallery/7/903354165170508_457381139_903354341837157_1597021080350883581_n.jpg
       gallery-folder: /gallery/7/
       gallery-name: 7
       gallery-date: February 2025
             
-    - image_path: /gallery/8/946199900885934_464634396_946201637552427_5647653489565726150_n.jpg
+    - image_path: /gallery/8/946879040818020_464747238_946879394151318_4759805679121583617_n.jpg
       gallery-folder: /gallery/8/
       gallery-name: 8
       gallery-date: February 2025
             
-    - image_path: /gallery/9/871335735039018_456165475_896525779186680_8264890684689353184_n.jpg
+    - image_path: /gallery/9/871335735039018_450315291_871335615039030_3312950755207757145_n.jpg
       gallery-folder: /gallery/9/
       gallery-name: 9
       gallery-date: February 2025
             
+---

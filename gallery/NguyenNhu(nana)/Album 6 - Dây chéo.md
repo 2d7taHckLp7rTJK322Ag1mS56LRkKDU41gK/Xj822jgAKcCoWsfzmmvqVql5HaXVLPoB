@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -39,3 +40,4 @@ images:
     - image_path: /gallery/NguyenNhu(nana)/Album 6 - Dây chéo/04_5.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 6 - Dây chéo/04_6.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 6 - Dây chéo/837892454078932_474512538_1329838428217663_1274810357912992036_n.jpg
+---

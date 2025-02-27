@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -47,3 +48,4 @@ images:
     - image_path: /gallery/HQT/vay_ngan_bb/lai/904646718374586_457713649_904647088374549_8332940004254539863_n.jpg
     - image_path: /gallery/HQT/vay_ngan_bb/lai/904646738374584_458286532_904647098374548_5311032306851341715_n.jpg
     - image_path: /gallery/HQT/vay_ngan_bb/lai/904650635040861_458210201_904650638374194_66443621812560116_n.jpg
+---

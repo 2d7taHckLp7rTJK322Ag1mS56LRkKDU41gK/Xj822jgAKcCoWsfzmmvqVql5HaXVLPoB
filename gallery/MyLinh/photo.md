@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -222,3 +223,4 @@ images:
     - image_path: /gallery/MyLinh/photo/921783206739334_470191737_921783210072667_2458551932010635117_n.jpg
     - image_path: /gallery/MyLinh/photo/924117323172589_471132875_924117326505922_7345759232713912350_n.jpg
     - image_path: /gallery/MyLinh/photo/930204542563867_472184157_930204545897200_4978924860577879568_n.jpg
+---

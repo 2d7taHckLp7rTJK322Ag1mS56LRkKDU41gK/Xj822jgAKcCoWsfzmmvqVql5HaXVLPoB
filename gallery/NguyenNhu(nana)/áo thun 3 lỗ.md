@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -24,3 +25,4 @@ images:
     - image_path: /gallery/NguyenNhu(nana)/áo thun 3 lỗ/714170829784429_470087850_1304003947467778_5767175655969892446_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/áo thun 3 lỗ/924590025409174_332282649_766411084905520_6289924138655509659_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/áo thun 3 lỗ/971533314048178_347819097_1673933716408943_3826645494159932630_n.jpg
+---

@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -54,3 +55,4 @@ images:
     - image_path: /gallery/HQT/vay_ngan_bb/den/940129924826265_463784678_940130114826246_425173441097733143_n.jpg
     - image_path: /gallery/HQT/vay_ngan_bb/den/940129944826263_464076805_940130121492912_4374259151179040771_n.jpg
     - image_path: /gallery/HQT/vay_ngan_bb/den/940129981492926_463998523_940130141492910_6750735314098550_n.jpg
+---

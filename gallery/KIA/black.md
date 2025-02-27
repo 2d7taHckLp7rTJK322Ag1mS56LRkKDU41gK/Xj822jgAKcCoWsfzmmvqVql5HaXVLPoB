@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -107,3 +108,4 @@ images:
     - image_path: /gallery/KIA/black/2254161161649587_468542045_2254161168316253_1501707003124474251_n.jpg
     - image_path: /gallery/KIA/black/2254268974972139_468366607_2254268978305472_7268243477801574724_n.jpg
     - image_path: /gallery/KIA/black/2261820874216949_469825972_2261820877550282_672020461661308213_n.jpg
+---

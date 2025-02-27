@@ -1,4 +1,5 @@
 
+---
 layout: album
 resource: facebook
 title: "album"
@@ -14,3 +15,4 @@ images:
     - image_path: /gallery/NguyenNhu(nana)/Album 8 - Truyền thống/1129664584901716_430743994_1129665394901635_8252488914385102092_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 8 - Truyền thống/1129664758235032_432533610_1129665431568298_2271048256934567558_n.jpg
     - image_path: /gallery/NguyenNhu(nana)/Album 8 - Truyền thống/1129664858235022_432480786_1129665404901634_760168394356745822_n.jpg
+---

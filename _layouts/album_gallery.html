@@ -35,7 +35,14 @@ layout: default
                         <figure class="effect-selena">
                             <header class='gallery-icon'>
                             <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
+                            <!-- <img src="{{ image.image_path }}"></a> -->
+                            {% if page.resource == 'facebook' %}
+                            <img src="{{ site.resource.facebook }}{{ image.image_path }}"></a>
+                            {% elif page.resource == 'instagram' %}
+                            <img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
+                            {% else %}
                             <img src="{{ image.image_path }}"></a>
+                            {% endif %}
                             </header>	
                             <figcaption class='gallery-caption'>
                                 <div class="entry-summary">
