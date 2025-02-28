@@ -6,12 +6,12 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /baohatran704/-1/20200301_171516_83633544_212918943146500_454180711426219566_n.jpg
+- image_path: /baohatran704/-1/20190213_074841_50992681_123741892017759_4103495082060693332_n.jpg
   resource: instagram
   gallery-folder: /gallery/baohatran704/
   gallery-name: -1
   gallery-date: March 2025
-- image_path: /chin_19022/-1/20241025_124823_464467060_18144565270347304_2688066974324399206_n.jpg
+- image_path: /chin_19022/-1/20240714_155259_451016531_18133727482347304_7966165023938519906_n.jpg
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: -1
@@ -41,6 +41,11 @@ images:
   gallery-folder: /gallery/QuynhAlee/
   gallery-name: 1
   gallery-date: February 2025
+- image_path: /trangg.phaam/0/20240811_205652_455017328_18281374516225020_3570586537884392049_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/trangg.phaam/
+  gallery-name: 0
+  gallery-date: March 2025
 - image_path: /TranThiQuynhMy/1/7120818174628022_398967361_7120820467961126_5438281890348323326_n.jpg
   resource: facebook
   gallery-folder: /gallery/TranThiQuynhMy/
