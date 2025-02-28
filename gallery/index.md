@@ -6,7 +6,12 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /chin_19022/-1/20240104_143740_416838558_18114158932347304_1763708038331515456_n.jpg
+- image_path: /baohatran704/-1/20200301_171516_83633544_212918943146500_454180711426219566_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/baohatran704/
+  gallery-name: -1
+  gallery-date: March 2025
+- image_path: /chin_19022/-1/20241025_124823_464467060_18144565270347304_2688066974324399206_n.jpg
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: -1
