@@ -6,6 +6,11 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
+- image_path: /chin_19022/-1/20240104_143740_416838558_18114158932347304_1763708038331515456_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/chin_19022/
+  gallery-name: -1
+  gallery-date: March 2025
 - image_path: /HQT/ao_dai/757967479709178_419100599_757967663042493_3055947718044778055_n.jpg
   resource: facebook
   gallery-folder: /gallery/HQT/
