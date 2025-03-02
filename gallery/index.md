@@ -6,12 +6,17 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /baohatran704/-1/20181206_132739_47582018_473690096371179_8235723898226246817_n.jpg
+- image_path: /bachhuyentrang25/0/20200306_191700_83691816_257081758643404_2821182209294011495_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/bachhuyentrang25/
+  gallery-name: 0
+  gallery-date: March 2025
+- image_path: /baohatran704/-1/20200301_171516_87699302_635035240374537_452524941333265253_n.jpg
   resource: instagram
   gallery-folder: /gallery/baohatran704/
   gallery-name: -1
   gallery-date: March 2025
-- image_path: /chin_19022/-1/20231008_130857_387771584_18103276195347304_9126053740173066463_n.jpg
+- image_path: /chin_19022/-1/20240310_195318_431777067_18120941047347304_7780831222756393000_n.jpg
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: -1
@@ -21,6 +26,16 @@ images:
   gallery-folder: /gallery/HQT/
   gallery-name: ao_dai
   gallery-date: February 2025
+- image_path: /iamhaiiii/1/20240901_174400_457740975_1157583562002529_2940580151970933681_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/iamhaiiii/
+  gallery-name: 1
+  gallery-date: March 2025
+- image_path: /imnotteee/0/20230708_204014_358783476_265918629467392_655872431535098502_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/imnotteee/
+  gallery-name: 0
+  gallery-date: March 2025
 - image_path: /KIA/black/1788353691563672_321792906_8440366512702309_782643147337224616_n.jpg
   resource: facebook
   gallery-folder: /gallery/KIA/
@@ -41,12 +56,12 @@ images:
   gallery-folder: /gallery/QuynhAlee/
   gallery-name: 1
   gallery-date: February 2025
-- image_path: /teamy_99/0/20240522_170644_445621949_18412537009065911_5973400965737675230_n.jpg
+- image_path: /teamy_99/0/20250113_192923_473693025_18454870510065911_1459152750649682741_n.jpg
   resource: instagram
   gallery-folder: /gallery/teamy_99/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /trangg.phaam/0/20220612_203259_287259600_122776380439825_8156829394252051726_n.jpg
+- image_path: /trangg.phaam/0/20220612_203259_287121157_577119697103509_5949522581418771438_n.jpg
   resource: instagram
   gallery-folder: /gallery/trangg.phaam/
   gallery-name: 0
@@ -56,9 +71,4 @@ images:
   gallery-folder: /gallery/TranThiQuynhMy/
   gallery-name: 1
   gallery-date: February 2025
-- image_path: /_imnotteee/0/20230706_174404_358177647_2755720601234758_9144233044750135272_n.jpg
-  resource: instagram
-  gallery-folder: /gallery/_imnotteee/
-  gallery-name: 0
-  gallery-date: March 2025
 ---
