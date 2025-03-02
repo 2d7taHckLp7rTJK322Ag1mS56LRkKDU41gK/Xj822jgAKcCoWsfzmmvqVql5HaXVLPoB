@@ -6,12 +6,12 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /baohatran704/-1/20190213_074841_50992681_123741892017759_4103495082060693332_n.jpg
+- image_path: /baohatran704/-1/20181206_132739_47582018_473690096371179_8235723898226246817_n.jpg
   resource: instagram
   gallery-folder: /gallery/baohatran704/
   gallery-name: -1
   gallery-date: March 2025
-- image_path: /chin_19022/-1/20240714_155259_451016531_18133727482347304_7966165023938519906_n.jpg
+- image_path: /chin_19022/-1/20231008_130857_387771584_18103276195347304_9126053740173066463_n.jpg
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: -1
@@ -41,7 +41,12 @@ images:
   gallery-folder: /gallery/QuynhAlee/
   gallery-name: 1
   gallery-date: February 2025
-- image_path: /trangg.phaam/0/20240811_205652_455017328_18281374516225020_3570586537884392049_n.jpg
+- image_path: /teamy_99/0/20240522_170644_445621949_18412537009065911_5973400965737675230_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/teamy_99/
+  gallery-name: 0
+  gallery-date: March 2025
+- image_path: /trangg.phaam/0/20220612_203259_287259600_122776380439825_8156829394252051726_n.jpg
   resource: instagram
   gallery-folder: /gallery/trangg.phaam/
   gallery-name: 0
@@ -51,4 +56,9 @@ images:
   gallery-folder: /gallery/TranThiQuynhMy/
   gallery-name: 1
   gallery-date: February 2025
+- image_path: /_imnotteee/0/20230706_174404_358177647_2755720601234758_9144233044750135272_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/_imnotteee/
+  gallery-name: 0
+  gallery-date: March 2025
 ---
