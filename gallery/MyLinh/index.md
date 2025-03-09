@@ -7,15 +7,15 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /MyLinh/0/918893377028317_470184888_918893380361650_6432980131933933098_n.jpg
+- image_path: /MyLinh/0/682318174019173_406231306_682318334019157_3362762775813812181_n.jpg
   gallery-folder: /gallery/MyLinh/0/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /MyLinh/1/826336936283962_453257352_826337492950573_6558786664652284735_n.jpg
+- image_path: /MyLinh/1/640568038194187_378884707_640568028194188_3616998079182412083_n.jpg
   gallery-folder: /gallery/MyLinh/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /MyLinh/photo/902153502035638_467449931_902154178702237_1663109560801881797_n.jpg
+- image_path: /MyLinh/photo/839504394967216_456516924_839507421633580_3701338369598537453_n.jpg
   gallery-folder: /gallery/MyLinh/photo/
   gallery-name: photo
   gallery-date: March 2025

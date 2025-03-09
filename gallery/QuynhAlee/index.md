@@ -7,11 +7,11 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /QuynhAlee/1/891464989660633_444920329_891464992993966_7012799063007841448_n.jpg
+- image_path: /QuynhAlee/1/868446191962513_441040475_868446425295823_7701205343128684309_n.jpg
   gallery-folder: /gallery/QuynhAlee/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /QuynhAlee/2/130707892294493_153943984_130707898961159_2361803612932729301_n.jpg
+- image_path: /QuynhAlee/2/205754578123157_198720778_205754581456490_4391901805500271656_n.jpg
   gallery-folder: /gallery/QuynhAlee/2/
   gallery-name: 2
   gallery-date: March 2025

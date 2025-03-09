@@ -1,0 +1,25 @@
+---
+layout: album
+resource: facebook
+title: "album"
+description: "masonry"
+active: gallery
+header-img: "img/gallery-bg.jpg"
+album-title: "my 9th album"
+images:
+  - image_path: lemylan/Quần dài (1)/234 (1).jpg
+  - image_path: lemylan/Quần dài (1)/234 (2).jpg
+  - image_path: lemylan/Quần dài (1)/234 (3).jpg
+  - image_path: lemylan/Quần dài (1)/234 (4).jpg
+  - image_path: lemylan/Quần dài (1)/2472960762863481_410275169_2472960752863482_4560778161348517040_n.jpg
+  - image_path: lemylan/Quần dài (1)/2472960792863478_412396588_2472961069530117_6528095021300323341_n.jpg
+  - image_path: lemylan/Quần dài (1)/2484228621736695_416974435_2484229368403287_7709829667686714183_n.jpg
+  - image_path: lemylan/Quần dài (1)/2487844088041815_417902278_2487845168041707_8217934591349506867_n.jpg
+  - image_path: lemylan/Quần dài (1)/2495979843894906_422102677_2495980077228216_9029289903256347867_n.jpg
+  - image_path: lemylan/Quần dài (1)/2495979903894900_422258608_2495980107228213_5034403227834499006_n.jpg
+  - image_path: lemylan/Quần dài (1)/2564890517003838_438303698_2564890513670505_7885591151045117575_n.jpg
+  - image_path: lemylan/Quần dài (1)/2564890517003838_455890705_2648277781998444_8095393209275934334_n.jpg
+  - image_path: lemylan/Quần dài (1)/2564890517003838_456177982_2648277728665116_8023873284004778868_n.jpg
+  - image_path: lemylan/Quần dài (1)/2619124364913786_451105811_2619125388247017_5862302991867300106_n.jpg
+  - image_path: lemylan/Quần dài (1)/2648277331998489_456197277_2648277328665156_1258061014091711560_n.jpg
+---

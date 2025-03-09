@@ -7,15 +7,15 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /NguyenNhu(nana)/1/1308330660368440_470566284_1308331053701734_3235395798936287257_n.jpg
+- image_path: /NguyenNhu(nana)/1/581700336364813_469434280_1299781447890028_4003277639290747385_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/2/1103035337564641_422251090_1103036820897826_7067871749183301887_n.jpg
+- image_path: /NguyenNhu(nana)/2/1248811279653712_460989027_1248811282987045_6728356512876906952_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/2/
   gallery-name: 2
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/3/01_3.jpg
+- image_path: /NguyenNhu(nana)/3/04_2.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/3/
   gallery-name: 3
   gallery-date: March 2025
@@ -23,27 +23,27 @@ images:
   gallery-folder: /gallery/NguyenNhu(nana)/4/
   gallery-name: 4
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/Album 10 - Satin/1068128491055326_402959788_1068129261055249_698499487881020621_n.jpg
+- image_path: /NguyenNhu(nana)/Album 10 - Satin/1068128464388662_403052150_1068129244388584_6445946916323693952_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/Album 10 - Satin/
   gallery-name: Album 10 - Satin
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/Album 4 - Cup/1037542774113898_382449312_1037542770780565_2835299745339736897_n.jpg
+- image_path: /NguyenNhu(nana)/Album 4 - Cup/1319027269298779_472449016_1319027835965389_4042886743337389164_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/Album 4 - Cup/
   gallery-name: Album 4 - Cup
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/Album 5 - V/02_3.jpg
+- image_path: /NguyenNhu(nana)/Album 5 - V/04_3.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/Album 5 - V/
   gallery-name: Album 5 - V
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/Album 6 - Dây chéo/04_4.jpg
+- image_path: /NguyenNhu(nana)/Album 6 - Dây chéo/03_3.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/Album 6 - Dây chéo/
   gallery-name: Album 6 - Dây chéo
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/Album 7 - Dây nhỏ/970444584157051_347583114_523643093145309_4598932106990776204_n.jpg
+- image_path: /NguyenNhu(nana)/Album 7 - Dây nhỏ/05_2.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/Album 7 - Dây nhỏ/
   gallery-name: Album 7 - Dây nhỏ
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/Album 8 - Truyền thống/1129664584901716_430743994_1129665394901635_8252488914385102092_n.jpg
+- image_path: /NguyenNhu(nana)/Album 8 - Truyền thống/1129664758235032_432533610_1129665431568298_2271048256934567558_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/Album 8 - Truyền thống/
   gallery-name: Album 8 - Truyền thống
   gallery-date: March 2025
@@ -51,15 +51,15 @@ images:
   gallery-folder: /gallery/NguyenNhu(nana)/Album 9 - U/
   gallery-name: Album 9 - U
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/lung/777907406744104_472858331_1323900195478153_445498901214086705_n.jpg
+- image_path: /NguyenNhu(nana)/lung/793944038473774_473334228_1324790382055801_4258066642497501589_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/lung/
   gallery-name: lung
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/photo/1030625538138955_376419042_1030625534805622_902902389022245527_n.jpg
+- image_path: /NguyenNhu(nana)/photo/1206112787256895_451988883_1206112783923562_3576926621459343406_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/photo/
   gallery-name: photo
   gallery-date: March 2025
-- image_path: /NguyenNhu(nana)/áo thun 3 lỗ/1125545571980284_429658433_1125545851980256_4869567883401437020_n.jpg
+- image_path: /NguyenNhu(nana)/áo thun 3 lỗ/1079979026536939_409751423_1079979023203606_7773076365560929188_n.jpg
   gallery-folder: /gallery/NguyenNhu(nana)/áo thun 3 lỗ/
   gallery-name: áo thun 3 lỗ
   gallery-date: March 2025
