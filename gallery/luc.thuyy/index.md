@@ -2,34 +2,34 @@
 layout: album_gallery
 resource: instagram
 title: "Nguyễn Thùy"
-description: "Instagram albums of Nguyễn Thùy<r>. Username: luc.thuyy"
+description: "Instagram albums of Nguyễn Thùy</br>. Username: luc.thuyy"
 active: gallery
 images:
-- image_path: /luc.thuyy/-1/20250316_203203_484640738_18401675503103589_2849231075793608633_n.jpg
+- image_path: /luc.thuyy/-1/20230422_141650_342231177_1105650317070865_3669172121704739366_n.jpg
   gallery-folder: /gallery/luc.thuyy/-1/
   gallery-name: -1
   gallery-date: March 2025
-- image_path: /luc.thuyy/0/20241225_223729_471545321_639385961854184_4630441348279297010_n.jpg
+- image_path: /luc.thuyy/0/20240331_210157_434977566_941937213926207_8298643077053736890_n.jpg
   gallery-folder: /gallery/luc.thuyy/0/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /luc.thuyy/1/20230107_171730_323787121_949666899774098_8075472196912751321_n.jpg
+- image_path: /luc.thuyy/1/20250131_133349_475788062_18394901830103589_4357652439175854071_n.jpg
   gallery-folder: /gallery/luc.thuyy/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /luc.thuyy/2/20240901_204902_457670948_433343173057830_5854472802185258458_n.jpg
+- image_path: /luc.thuyy/2/20240904_151624_458387838_693034353037736_3196516637612305135_n.jpg
   gallery-folder: /gallery/luc.thuyy/2/
   gallery-name: 2
   gallery-date: March 2025
-- image_path: /luc.thuyy/3/20230201_212201_328351439_899501058143481_5314930590314276803_n.jpg
+- image_path: /luc.thuyy/3/20221030_192546_313283732_1106172560043038_2019499674234891282_n.jpg
   gallery-folder: /gallery/luc.thuyy/3/
   gallery-name: 3
   gallery-date: March 2025
-- image_path: /luc.thuyy/4/20230601_185123_350469258_952541295803165_4181774829088652480_n.jpg
+- image_path: /luc.thuyy/4/20230531_112158_350103387_789129929499048_6933936259868106524_n.jpg
   gallery-folder: /gallery/luc.thuyy/4/
   gallery-name: 4
   gallery-date: March 2025
-- image_path: /luc.thuyy/5/20231017_231835_391077862_873212187553243_8340357376371877083_n.jpg
+- image_path: /luc.thuyy/5/20230913_202829_377517244_762239705707642_5839070969052587817_n.jpg
   gallery-folder: /gallery/luc.thuyy/5/
   gallery-name: 5
   gallery-date: March 2025

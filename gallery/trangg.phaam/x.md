@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Trang Phạm (Huyen Trang Pham) - Part x"
-description: "Instagram album of Trang Phạm (Huyen Trang Pham), part x.<r> Username: trangg.phaam"
+description: "Instagram album of Trang Phạm (Huyen Trang Pham), part x.</br> Username: trangg.phaam"
 active: gallery
 album-title: "Trang Phạm (Huyen Trang Pham)"
 images:
