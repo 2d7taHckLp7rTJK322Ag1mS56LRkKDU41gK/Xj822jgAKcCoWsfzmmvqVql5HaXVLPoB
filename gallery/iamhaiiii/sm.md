@@ -1,11 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "album"
-description: "masonry"
+title: "Trịnh Thị Hải - Part sm"
+description: "Instagram album of Trịnh Thị Hải, part sm.<r> Username: iamhaiiii"
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 9th album"
+album-title: "Trịnh Thị Hải"
 images:
   - image_path: iamhaiiii/sm/20230220_191611_332324446_1799385703776920_4637706278033854365_n.jpg
   - image_path: iamhaiiii/sm/20230310_194424_332339894_922347662239572_3229242389927369284_n.jpg

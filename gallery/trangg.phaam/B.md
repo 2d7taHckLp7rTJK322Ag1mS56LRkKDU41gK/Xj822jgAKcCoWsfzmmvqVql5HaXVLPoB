@@ -1,11 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "album"
-description: "masonry"
+title: "Trang Phạm (Huyen Trang Pham) - Part B"
+description: "Instagram album of Trang Phạm (Huyen Trang Pham), part B.<r> Username: trangg.phaam"
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 9th album"
+album-title: "Trang Phạm (Huyen Trang Pham)"
 images:
   - image_path: trangg.phaam/B/20200909_205440_118944031_639470127006755_806217371858680051_n.jpg
   - image_path: trangg.phaam/B/20211001_193716_243971677_172287668367000_1891578363831123866_n.jpg

@@ -2,15 +2,14 @@
 layout: album_gallery
 resource: instagram
 title: "Nguyễn Trà My"
-description: "Instagram albums of Nguyễn Trà My. Username: teamy_99"
+description: "Instagram albums of Nguyễn Trà My<r>. Username: teamy_99"
 active: gallery
-header-img: https://instagram.fsgn2-3.fna.fbcdn.net/v/t51.2885-19/473670226_972065238175387_2757723918518294942_n.jpg?_nc_ht=instagram.fsgn2-3.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AF3tPzJncMUD9VBUZApu5F36FtZztGP7G-KGB47aDReKTxLd4vFvXzp0Nz10qOTDK4&_nc_ohc=o6DzLtZs0eMQ7kNvgHmMVQf&_nc_gid=dmV0_LcSdFRlEwwwLmQGIg&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYFPX_xJR0D24uPe7XhR2DQnHPuVrkv10FRe76CmwHRqfA&oe=67D9613C&_nc_sid=7d3ac5
 images:
-- image_path: /teamy_99/0/20230413_210233_328396883_774792064289086_8438766217498017315_n.jpg
+- image_path: /teamy_99/0/20240418_123213_436424529_18406871461065911_4493807135431843285_n.jpg
   gallery-folder: /gallery/teamy_99/0/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /teamy_99/1/20210905_113630_241274540_661253738183194_7336800382967734179_n.jpg
+- image_path: /teamy_99/1/20210804_201554_230347438_265175258356005_4729370712979509221_n.jpg
   gallery-folder: /gallery/teamy_99/1/
   gallery-name: 1
   gallery-date: March 2025
@@ -18,23 +17,23 @@ images:
   gallery-folder: /gallery/teamy_99/1+/
   gallery-name: 1+
   gallery-date: March 2025
-- image_path: /teamy_99/2/20210613_191914_200946344_189440582976567_7866760825194684340_n.jpg
+- image_path: /teamy_99/2/20230424_094255_342529939_792330508900345_5821390700421821897_n.jpg
   gallery-folder: /gallery/teamy_99/2/
   gallery-name: 2
   gallery-date: March 2025
-- image_path: /teamy_99/2+/20230112_094157_325385404_709820454066781_843217149723947164_n.jpg
+- image_path: /teamy_99/2+/20221127_002510_316982176_3418024021850748_5653013228568905901_n.jpg
   gallery-folder: /gallery/teamy_99/2+/
   gallery-name: 2+
   gallery-date: March 2025
-- image_path: /teamy_99/7/20231230_152818_414886127_18385488241065911_2581375167982669220_n.jpg
+- image_path: /teamy_99/7/20240830_130321_457595973_18430059367065911_3711895317393280070_n.jpg
   gallery-folder: /gallery/teamy_99/7/
   gallery-name: 7
   gallery-date: March 2025
-- image_path: /teamy_99/8/20240608_100227_448053424_18415450210065911_5873051831463099490_n.jpg
+- image_path: /teamy_99/8/20240320_174606_432053620_18402297547065911_5771410635871703779_n.jpg
   gallery-folder: /gallery/teamy_99/8/
   gallery-name: 8
   gallery-date: March 2025
-- image_path: /teamy_99/9/20240304_195836_431338137_18399759118065911_9037608192120630706_n.jpg
+- image_path: /teamy_99/9/20250114_100712_473691445_18454984954065911_6076480692714161207_n.jpg
   gallery-folder: /gallery/teamy_99/9/
   gallery-name: 9
   gallery-date: March 2025

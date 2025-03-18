@@ -1,16 +1,15 @@
 ---
 layout: album_gallery
 resource: instagram
-title: "ALBUMS"
-description: "archive"
+title: "Trang Phạm (Huyen Trang Pham)"
+description: "Instagram albums of Trang Phạm (Huyen Trang Pham)<r>. Username: trangg.phaam"
 active: gallery
-header-img: "img/gallery-bg.jpg"
 images:
 - image_path: /trangg.phaam/0/20220609_201026_286400238_577126460441014_2008822719025806882_n.jpg
   gallery-folder: /gallery/trangg.phaam/0/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /trangg.phaam/1/20210818_194954_238628371_1728216260699152_6031517408762724956_n.jpg
+- image_path: /trangg.phaam/1/20210714_200912_217396095_554887175666842_4304311300030436092_n.jpg
   gallery-folder: /gallery/trangg.phaam/1/
   gallery-name: 1
   gallery-date: March 2025
@@ -26,51 +25,51 @@ images:
   gallery-folder: /gallery/trangg.phaam/12/
   gallery-name: 12
   gallery-date: March 2025
-- image_path: /trangg.phaam/13/20231220_200555_412868593_18252168649225020_1099793628446707268_n.jpg
+- image_path: /trangg.phaam/13/20230724_200009_363357068_18230709820225020_457233384363650952_n.jpg
   gallery-folder: /gallery/trangg.phaam/13/
   gallery-name: 13
   gallery-date: March 2025
-- image_path: /trangg.phaam/14/20240507_202827_441257224_18269222932225020_8500213382830566298_n.jpg
+- image_path: /trangg.phaam/14/20240403_194616_435355083_18265159210225020_80950900592577271_n.jpg
   gallery-folder: /gallery/trangg.phaam/14/
   gallery-name: 14
   gallery-date: March 2025
-- image_path: /trangg.phaam/2/20211225_184348_269877232_472349317891247_6026447806048864940_n.jpg
+- image_path: /trangg.phaam/2/20211220_191913_269603841_648643096156434_5827735221834632475_n.jpg
   gallery-folder: /gallery/trangg.phaam/2/
   gallery-name: 2
   gallery-date: March 2025
-- image_path: /trangg.phaam/3/20211006_192850_244424899_472271520511844_5050855284348122799_n.jpg
+- image_path: /trangg.phaam/3/20220205_201529_273131613_226931222988844_3157507674081959249_n.jpg
   gallery-folder: /gallery/trangg.phaam/3/
   gallery-name: 3
   gallery-date: March 2025
-- image_path: /trangg.phaam/4/20210915_200202_242051003_385082969660544_7109852564504327181_n.jpg
+- image_path: /trangg.phaam/4/20220822_193321_300541356_164227479522932_8394781515871806244_n.jpg
   gallery-folder: /gallery/trangg.phaam/4/
   gallery-name: 4
   gallery-date: March 2025
-- image_path: /trangg.phaam/5/20230502_201357_344606461_748005673471336_4397557290462136289_n.jpg
+- image_path: /trangg.phaam/5/20221003_200717_310359119_485830966764552_3484934638365286793_n.jpg
   gallery-folder: /gallery/trangg.phaam/5/
   gallery-name: 5
   gallery-date: March 2025
-- image_path: /trangg.phaam/6/20221224_120013_321176138_138758295649007_6266033417212915522_n.jpg
+- image_path: /trangg.phaam/6/20221224_120013_321365779_178609751478256_7400714148579938366_n.jpg
   gallery-folder: /gallery/trangg.phaam/6/
   gallery-name: 6
   gallery-date: March 2025
-- image_path: /trangg.phaam/7/20211023_202255_247430232_4826053424079947_7879566054422218732_n.jpg
+- image_path: /trangg.phaam/7/20220301_200422_274999771_321493633284518_1310253692659009022_n.jpg
   gallery-folder: /gallery/trangg.phaam/7/
   gallery-name: 7
   gallery-date: March 2025
-- image_path: /trangg.phaam/8/20220414_193637_278311487_963079660947430_3930415790785673135_n.jpg
+- image_path: /trangg.phaam/8/20220414_193637_278428016_138974025354461_7361919015826808485_n.jpg
   gallery-folder: /gallery/trangg.phaam/8/
   gallery-name: 8
   gallery-date: March 2025
-- image_path: /trangg.phaam/9/20241119_201130_467758477_18294476920225020_781976833959161456_n.jpg
+- image_path: /trangg.phaam/9/20241005_184224_462120452_18288497116225020_3284583858053604496_n.jpg
   gallery-folder: /gallery/trangg.phaam/9/
   gallery-name: 9
   gallery-date: March 2025
-- image_path: /trangg.phaam/B/20220213_195948_273835592_342291957815488_6271443950234189358_n.jpg
+- image_path: /trangg.phaam/B/20220120_202455_272166149_905980526780858_9121083278179045318_n.jpg
   gallery-folder: /gallery/trangg.phaam/B/
   gallery-name: B
   gallery-date: March 2025
-- image_path: /trangg.phaam/x/20210622_200724_204241963_338950164417792_6658006906929102207_n.jpg
+- image_path: /trangg.phaam/x/20220523_193356_283127001_705285287377006_7213425804700384170_n.jpg
   gallery-folder: /gallery/trangg.phaam/x/
   gallery-name: x
   gallery-date: March 2025
