@@ -5,11 +5,11 @@ title: "𝓝𝓰𝓾𝔂𝓮̂̃𝓷 𝓣𝓱𝓲̣ 𝓣𝓱𝓾𝔂̀ 𝓛𝓲�
 description: "Instagram albums of 𝓝𝓰𝓾𝔂𝓮̂̃𝓷 𝓣𝓱𝓲̣ 𝓣𝓱𝓾𝔂̀ 𝓛𝓲𝓷𝓱</br>. Username: linhlig1102"
 active: gallery
 images:
-- image_path: /linhlig1102/1/20231112_211023_400750428_1714151515758366_8432817960260346700_n.jpg
+- image_path: /linhlig1102/1/20220726_201243_295523012_597497735224719_4596594919099656203_n.jpg
   gallery-folder: /gallery/linhlig1102/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /linhlig1102/2/20240905_205915_458376621_1453146735404005_1506435812295552624_n.jpg
+- image_path: /linhlig1102/2/20230507_203151_345237927_553186996928037_5636364450178940515_n.jpg
   gallery-folder: /gallery/linhlig1102/2/
   gallery-name: 2
   gallery-date: March 2025
