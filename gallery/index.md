@@ -6,17 +6,17 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /bachhuyentrang25/0/20220626_183540_290830676_136830528713999_5889494496315116755_n.jpg
+- image_path: /bachhuyentrang25/0/20220324_204304_276023197_515878253307446_3823202267580285411_n.jpg
   resource: instagram
   gallery-folder: /gallery/bachhuyentrang25/
   gallery-name: "Bạch Huyền Trang"
   gallery-date: March 2025
-- image_path: /baohatran704/-1/20240221_131622_429313734_400996662475132_3238638339778501613_n.jpg
+- image_path: /baohatran704/-1/20181206_132739_46167968_528343831017054_55777587621301581_n.jpg
   resource: instagram
   gallery-folder: /gallery/baohatran704/
   gallery-name: "Trần Bảo Hà"
   gallery-date: March 2025
-- image_path: /chin_19022/-1/20240104_143740_416838558_18114158932347304_1763708038331515456_n.jpg
+- image_path: /chin_19022/-1/20240225_121248_428625212_18119524060347304_804536697393916094_n.jpg
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: "Thuy Trang Nguyen"
@@ -28,7 +28,7 @@ images:
   gallery-date: March 2025
 - image_path: dyngyn.nt/20230416_092921_330007422_571062348339813_6252361284827574522_n.jpg
   resource: instagram
-  gallery-folder: /gallery/dyngyn.nt.md/
+  gallery-folder: /gallery/.md/
   gallery-name: "album"
   gallery-date: N/A
 - image_path: /HQT/ao_dai/757967479709178_419100599_757967663042493_3055947718044778055_n.jpg
@@ -36,19 +36,19 @@ images:
   gallery-folder: /gallery/HQT/
   gallery-name: "ALBUMS"
   gallery-date: March 2025
-- image_path: /iamhaiiii/1/20240901_174400_457508872_550379163984856_1159785860749409901_n.jpg
+- image_path: /iamhaiiii/1/20240901_174400_457706108_1034988974836055_2314237655465191052_n.jpg
   resource: instagram
   gallery-folder: /gallery/iamhaiiii/
   gallery-name: "Trịnh Thị Hải"
   gallery-date: March 2025
-- image_path: /imnotteee/0/20230708_204014_358028766_3120790688230309_5439893089545034046_n.jpg
+- image_path: /imnotteee/0/20230708_204014_358195670_973763437271548_1350541097785631601_n.jpg
   resource: instagram
   gallery-folder: /gallery/imnotteee/
   gallery-name: "Thùy Trang"
   gallery-date: March 2025
-- image_path: /instagram.com/dyngyn.nt/20250105_213731_472690973_535524509515745_2428890423182799159_n.jpg
+- image_path: /instagram.com/dyngyn.nt/20230416_092921_330007422_571062348339813_6252361284827574522_n.jpg
   resource: instagram
-  gallery-folder: /gallery/index.md/
+  gallery-folder: /gallery/.md/
   gallery-name: "ALBUMS"
   gallery-date: N/A
 - image_path: /KIA/black/2096668550732183_472270865_18370916233138291_8043697097361903158_n.jpg
@@ -61,12 +61,12 @@ images:
   gallery-folder: /gallery/lemylan/
   gallery-name: "ALBUMS"
   gallery-date: March 2025
-- image_path: /linhlig1102/1/20220820_175208_300020900_1095501801391097_7278875618996395894_n.jpg
+- image_path: /linhlig1102/1/20250310_124204_483036581_18313808347201852_221131092858034882_n.jpg
   resource: instagram
   gallery-folder: /gallery/linhlig1102/
   gallery-name: "𝓝𝓰𝓾𝔂𝓮̂̃𝓷 𝓣𝓱𝓲̣ 𝓣𝓱𝓾𝔂̀ 𝓛𝓲𝓷𝓱"
   gallery-date: March 2025
-- image_path: /luc.thuyy/-1/20240822_095555_456328885_232562233285869_1039720697195225056_n.jpg
+- image_path: /luc.thuyy/-1/20240828_122305_457272030_1272248440807579_6436532654710439582_n.jpg
   resource: instagram
   gallery-folder: /gallery/luc.thuyy/
   gallery-name: "Nguyễn Thùy"
@@ -86,22 +86,22 @@ images:
   gallery-folder: /gallery/QuynhAlee/
   gallery-name: "ALBUMS"
   gallery-date: March 2025
-- image_path: /teamy_99/0/20230602_120328_350637084_614823217269572_3395254699230234986_n.jpg
+- image_path: /teamy_99/0/20240418_123213_436258079_18406871452065911_4497906076146441663_n.jpg
   resource: instagram
   gallery-folder: /gallery/teamy_99/
   gallery-name: "Nguyễn Trà My"
   gallery-date: March 2025
-- image_path: /tienbabie_24/contset_2/1751577132363271_485000978_1799865527534431_7829406968769731352_n.jpg
+- image_path: /tienbabie_24/contset_2/1751577055696612_484788678_1799865530867764_7584064506195847072_n.jpg
   resource: instagram
   gallery-folder: /gallery/tienbabie_24/
   gallery-name: "Trần Bích Triều Tiên"
   gallery-date: March 2025
 - image_path: tienbabie_dtth/set_0 (1).jpg
   resource: instagram
-  gallery-folder: /gallery/tienbabie_dtth.md/
+  gallery-folder: /gallery/.md/
   gallery-name: "album"
   gallery-date: N/A
-- image_path: /trangg.phaam/0/20220609_201026_286493453_562212858856192_6877022489613627004_n.jpg
+- image_path: /trangg.phaam/0/20220612_203259_287259600_122776380439825_8156829394252051726_n.jpg
   resource: instagram
   gallery-folder: /gallery/trangg.phaam/
   gallery-name: "Trang Phạm (Huyen Trang Pham)"
