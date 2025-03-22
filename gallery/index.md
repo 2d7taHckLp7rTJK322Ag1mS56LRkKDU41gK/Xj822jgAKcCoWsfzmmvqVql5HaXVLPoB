@@ -6,17 +6,17 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /bachhuyentrang25/0/20230712_172633_347567878_18340631950077003_8241725435047251252_n.jpg
+- image_path: /bachhuyentrang25/0/20220626_183540_290830676_136830528713999_5889494496315116755_n.jpg
   resource: instagram
   gallery-folder: /gallery/bachhuyentrang25/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /baohatran704/-1/20200528_142109_100986267_2638279633052340_3085845918647152570_n.jpg
+- image_path: /baohatran704/-1/20240221_131622_429313734_400996662475132_3238638339778501613_n.jpg
   resource: instagram
   gallery-folder: /gallery/baohatran704/
   gallery-name: -1
   gallery-date: March 2025
-- image_path: /chin_19022/-1/20240223_225532_428665866_18119375086347304_1314076217208814953_n.jpg
+- image_path: /chin_19022/-1/20240225_121248_428625212_18119524060347304_804536697393916094_n.jpg
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: -1
@@ -26,12 +26,17 @@ images:
   gallery-folder: /gallery/clothes/
   gallery-name: Japan
   gallery-date: March 2025
+- image_path: dyngyn.nt/20230416_092921_330007422_571062348339813_6252361284827574522_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/dyngyn.nt.md/
+  gallery-name: "album"
+  gallery-date: N/A
 - image_path: /HQT/ao_dai/757967479709178_419100599_757967663042493_3055947718044778055_n.jpg
   resource: facebook
   gallery-folder: /gallery/HQT/
   gallery-name: ao_dai
   gallery-date: March 2025
-- image_path: /iamhaiiii/1/20240901_174400_457508872_550379163984856_1159785860749409901_n.jpg
+- image_path: /iamhaiiii/1/20240901_174400_457881096_3744636652463350_7586338612317066235_n.jpg
   resource: instagram
   gallery-folder: /gallery/iamhaiiii/
   gallery-name: 1
@@ -41,6 +46,11 @@ images:
   gallery-folder: /gallery/imnotteee/
   gallery-name: 0
   gallery-date: March 2025
+- image_path: /instagram.com/dyngyn.nt/20250220_212527_481191309_18487747918043946_6380559376816304586_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/index.md/
+  gallery-name: "ALBUMS"
+  gallery-date: N/A
 - image_path: /KIA/black/2096668550732183_472270865_18370916233138291_8043697097361903158_n.jpg
   resource: facebook
   gallery-folder: /gallery/KIA/
@@ -51,12 +61,12 @@ images:
   gallery-folder: /gallery/lemylan/
   gallery-name: Quần dài (1)
   gallery-date: March 2025
-- image_path: /linhlig1102/1/20230708_200056_358406339_661931252459872_4545731730731595226_n.jpg
+- image_path: /linhlig1102/1/20220820_175208_300020900_1095501801391097_7278875618996395894_n.jpg
   resource: instagram
   gallery-folder: /gallery/linhlig1102/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /luc.thuyy/-1/20240908_214053_458921811_1739484793542227_389219672455183227_n.jpg
+- image_path: /luc.thuyy/-1/20230304_161145_328686075_863542878046020_6840988210860030397_n.jpg
   resource: instagram
   gallery-folder: /gallery/luc.thuyy/
   gallery-name: -1
@@ -76,16 +86,21 @@ images:
   gallery-folder: /gallery/QuynhAlee/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /teamy_99/0/20240418_123213_436199585_18406871443065911_7678533920811604456_n.jpg
+- image_path: /teamy_99/0/20240418_123213_436424529_18406871461065911_4493807135431843285_n.jpg
   resource: instagram
   gallery-folder: /gallery/teamy_99/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /tienbabie_24/contset_2/1751577122363272_484569194_1799865790867738_5164335924255123612_n.jpg
+- image_path: /tienbabie_24/contset_2/1751577252363259_484733018_1799865894201061_2974851053606035422_n.jpg
   resource: instagram
   gallery-folder: /gallery/tienbabie_24/
   gallery-name: contset_2
   gallery-date: March 2025
+- image_path: tienbabie_dtth/set_0 (1).jpg
+  resource: instagram
+  gallery-folder: /gallery/tienbabie_dtth.md/
+  gallery-name: "album"
+  gallery-date: N/A
 - image_path: /trangg.phaam/0/20220612_203259_287121157_577119697103509_5949522581418771438_n.jpg
   resource: instagram
   gallery-folder: /gallery/trangg.phaam/

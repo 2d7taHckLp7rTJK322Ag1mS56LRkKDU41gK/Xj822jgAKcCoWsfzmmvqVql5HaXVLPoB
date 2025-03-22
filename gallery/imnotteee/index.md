@@ -9,11 +9,11 @@ images:
   gallery-folder: /gallery/imnotteee/0/
   gallery-name: 0
   gallery-date: March 2025
-- image_path: /imnotteee/1/20240531_230743_447179506_1680285862378769_4698247483421447721_n.jpg
+- image_path: /imnotteee/1/20250124_215518_474871313_18365823847189832_2795140854193172134_n.jpg
   gallery-folder: /gallery/imnotteee/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /imnotteee/3/20241203_223433_469112187_1538243240148742_4793577177367031545_n.jpg
+- image_path: /imnotteee/3/20240802_220446_453823757_472555852207698_8827799428730807349_n.jpg
   gallery-folder: /gallery/imnotteee/3/
   gallery-name: 3
   gallery-date: March 2025
