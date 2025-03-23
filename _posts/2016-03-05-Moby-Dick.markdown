@@ -152,5 +152,197 @@ comments: false
                                     <div class="page-break ">
                         <img id="image-48" src="https://cdn.pubtranxzyzz.store/hen/4132/1/64c790e9dcd92.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-1-48">
                     </div>
-                                    </div>
+                                    <div class="page-break ">
+                        <img id="image-3" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ed0f8a9.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-3">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-4" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ed21b87.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-4">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-5" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ed65cc4.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-5">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-6" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ed77b2a.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-6">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-7" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790edbbce4.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-7">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-8" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ee02a06.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-8">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-9" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ee41d0b.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-9">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-10" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ee84278.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-10">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-11" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ee96b61.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-11">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-12" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790eed40bc.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-12">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-13" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790eee741d.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-13">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-14" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ef058dd.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-14">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-15" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ef1825e.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-15">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-16" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ef29a0b.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-16">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-17" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ef65e6e.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-17">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-18" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790ef788e4.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-18">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-19" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790efb803e.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-19">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-20" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790efcb305.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-20">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-21" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f0180e2.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-21">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-22" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f029a4a.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-22">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-23" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f069f7c.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-23">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-24" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f07afd6.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-24">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-25" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f0bfcc4.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-25">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-26" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f110a10.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-26">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-27" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f151f6b.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-27">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-28" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f1652b6.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-28">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-29" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f177210.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-29">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-30" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f188f09.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-30">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-31" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f1d9bef.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-31">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-32" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f248f8c.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-32">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-33" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f259aba.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-33">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-34" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f299adc.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-34">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-35" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f2abbf5.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-35">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-36" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f2be871.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-36">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-37" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f30e42f.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-37">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-38" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f35bef2.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-38">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-39" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f36ed85.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-39">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-40" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f38208e.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-40">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-41" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f393d5f.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-41">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-42" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f3d78be.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-42">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-43" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f4207b2.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-43">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-44" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f462213.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-44">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-45" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f4a9a56.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-45">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-46" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f511d82.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-46">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-47" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f552052.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-47">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-48" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f565681.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-48">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-49" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f577dca.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-49">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-50" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f588dcc.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-50">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-51" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f5cd888.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-51">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-52" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f5dfc66.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-52">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-53" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f5f17be.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-53">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-54" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f63a7c8.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-54">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-55" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f69333f.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-55">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-56" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f6a6a53.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-56">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-57" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f6b8cbf.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-57">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-58" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f6ced6c.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-58">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-59" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f71ca71.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-59">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-60" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f72e3d3.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-60">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-61" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f7bacdb.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-61">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-62" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f8a370c.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-62">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-63" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f8b6071.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-63">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-64" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f8cd5e9.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-64">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-65" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f8dfdf8.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-65">
+                    </div>
+                                    <div class="page-break ">
+                        <img id="image-66" src="https://cdn.pubtranxzyzz.store/hen/4132/2/64c790f8f130b.jpg" class="chapter-img img-responsive" loading="lazy" width="800px" height="400px" alt="kinjo-yuuwaku-boku-ga-okaa-san-to-konna-koto-ni-nacchau-hanashi-chap-2-66">
+                    </div>
+
     </div>
