@@ -6,17 +6,27 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
 
-- image_path: /bachhuyentrang25/0/20200306_191700_83691816_257081758643404_2821182209294011495_n.jpg
+- image_path: /bachhuyentrang25/0/20210709_172259_214348049_354640966024322_6313094800818237955_n.jpg
   resource: instagram
   gallery-folder: /gallery/bachhuyentrang25/
   gallery-name: "Bạch Huyền Trang"
   gallery-date: March 2025
-- image_path: /baohatran704/-1/20181206_132739_46093423_1080485302139078_8903431710154292737_n.jpg
+- image_path: /baohatran704/-1/20230514_115026_346387825_769235451259627_949157271396350454_n.jpg
   resource: instagram
   gallery-folder: /gallery/baohatran704/
   gallery-name: "Trần Bảo Hà"
   gallery-date: March 2025
-- image_path: /chin_19022/-1/20231218_085213_412173925_18112128148347304_417100805440385994_n.jpg
+- image_path: /beeemm_/0/20240709_112943_450451539_492367646642385_6117774996972462214_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/beeemm_/
+  gallery-name: "Lâm Vũ Song Tuyến"
+  gallery-date: March 2025
+- image_path: /chaucoor/1/20230928_070047_384548683_18009155476939252_4716663190012842815_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/chaucoor/
+  gallery-name: "Ngọc Châu"
+  gallery-date: March 2025
+- image_path: /chin_19022/-1/20241225_142432_471573417_18150889720347304_3408351755495564887_n.jpg
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: "Thuy Trang Nguyen"
@@ -28,7 +38,7 @@ images:
   gallery-date: March 2025
 - image_path: dyngyn.nt/20230416_092921_330007422_571062348339813_6252361284827574522_n.jpg
   resource: instagram
-  gallery-folder: /gallery/.md/
+  gallery-folder: /gallery/dyngyn.nt/
   gallery-name: "album"
   gallery-date: N/A
 - image_path: /HQT/ao_dai/757967479709178_419100599_757967663042493_3055947718044778055_n.jpg
@@ -36,24 +46,24 @@ images:
   gallery-folder: /gallery/HQT/
   gallery-name: "ALBUMS"
   gallery-date: March 2025
-- image_path: /iamhaiiii/1/20240901_174400_457740975_1157583562002529_2940580151970933681_n.jpg
+- image_path: /iamhaiiii/1/20240901_174400_457706108_1034988974836055_2314237655465191052_n.jpg
   resource: instagram
   gallery-folder: /gallery/iamhaiiii/
   gallery-name: "Trịnh Thị Hải"
   gallery-date: March 2025
-- image_path: /imnotteee/0/20230708_204014_358783476_265918629467392_655872431535098502_n.jpg
+- image_path: /imnotteee/0/20230708_204014_358028766_3120790688230309_5439893089545034046_n.jpg
   resource: instagram
   gallery-folder: /gallery/imnotteee/
   gallery-name: "Thùy Trang"
   gallery-date: March 2025
-- image_path: /imphuon.g/-1/20230301_184148_333466255_209784844929959_870494974932525911_n.jpg
+- image_path: /imphuon.g/-1/20240329_184821_434698204_1546886972897800_3972981838371277038_n.jpg
   resource: instagram
   gallery-folder: /gallery/imphuon.g/
   gallery-name: "Thuy Phuong Ng"
   gallery-date: March 2025
-- image_path: /instagram.com/dyngyn.nt/20250105_213731_472845546_1117002483473409_5522336523392579430_n.jpg
+- image_path: /instagram.com/dyngyn.nt/20250303_221249_482707023_18489799783043946_8660375915964496476_n.jpg
   resource: instagram
-  gallery-folder: /gallery/.md/
+  gallery-folder: /gallery/index/
   gallery-name: "ALBUMS"
   gallery-date: N/A
 - image_path: /KIA/black/2096668550732183_472270865_18370916233138291_8043697097361903158_n.jpg
@@ -66,12 +76,12 @@ images:
   gallery-folder: /gallery/lemylan/
   gallery-name: "ALBUMS"
   gallery-date: March 2025
-- image_path: /linhlig1102/1/20221226_182618_321839402_202195415710151_6278133247736358531_n.jpg
+- image_path: /linhlig1102/1/20231218_212640_412026121_651535386919882_5091405848353802861_n.jpg
   resource: instagram
   gallery-folder: /gallery/linhlig1102/
   gallery-name: "𝓝𝓰𝓾𝔂𝓮̂̃𝓷 𝓣𝓱𝓲̣ 𝓣𝓱𝓾𝔂̀ 𝓛𝓲𝓷𝓱"
   gallery-date: March 2025
-- image_path: /luc.thuyy/-1/20241122_170142_467244028_580111864375456_1051876998280570968_n.jpg
+- image_path: /luc.thuyy/-1/20240918_211500_460379486_1587250198522947_3151996833863669552_n.jpg
   resource: instagram
   gallery-folder: /gallery/luc.thuyy/
   gallery-name: "Nguyễn Thùy"
@@ -91,7 +101,7 @@ images:
   gallery-folder: /gallery/QuynhAlee/
   gallery-name: "ALBUMS"
   gallery-date: March 2025
-- image_path: /teamy_99/0/20220307_143428_275376633_143505651484440_2430499840087623605_n.jpg
+- image_path: /teamy_99/0/20250128_113224_475378830_18457211023065911_7638270756978406812_n.jpg
   resource: instagram
   gallery-folder: /gallery/teamy_99/
   gallery-name: "Nguyễn Trà My"
@@ -103,10 +113,10 @@ images:
   gallery-date: March 2025
 - image_path: tienbabie_dtth/set_0 (1).jpg
   resource: instagram
-  gallery-folder: /gallery/.md/
+  gallery-folder: /gallery/tienbabie_dtth/
   gallery-name: "album"
   gallery-date: N/A
-- image_path: /trangg.phaam/0/20220612_203259_287259600_122776380439825_8156829394252051726_n.jpg
+- image_path: /trangg.phaam/0/20220609_201026_286493453_562212858856192_6877022489613627004_n.jpg
   resource: instagram
   gallery-folder: /gallery/trangg.phaam/
   gallery-name: "Trang Phạm (Huyen Trang Pham)"
@@ -115,5 +125,10 @@ images:
   resource: facebook
   gallery-folder: /gallery/TranThiQuynhMy/
   gallery-name: "ALBUMS"
+  gallery-date: March 2025
+- image_path: /uyntu.tr/-1/20240824_193415_469035899_17975416388801078_3962695555088300712_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/uyntu.tr/
+  gallery-name: "Trần Ngọc Tú Uyên"
   gallery-date: March 2025
 ---
