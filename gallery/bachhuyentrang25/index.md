@@ -5,7 +5,7 @@ title: "Bạch Huyền Trang"
 description: "Instagram albums of Bạch Huyền Trang</br>. Username: bachhuyentrang25"
 active: gallery
 images:
-- image_path: /bachhuyentrang25/0/20210709_172259_214348049_354640966024322_6313094800818237955_n.jpg
+- image_path: /bachhuyentrang25/0/20230722_184736_358717049_18342357328077003_8275371028190669783_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/0/
   gallery-name: 0
   gallery-date: March 2025
@@ -13,15 +13,15 @@ images:
   gallery-folder: /gallery/bachhuyentrang25/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /bachhuyentrang25/2/20211213_192657_267410769_966072364267252_748121308398646277_n.jpg
+- image_path: /bachhuyentrang25/2/20210812_191242_235810523_451679109211861_8579271895842592121_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/2/
   gallery-name: 2
   gallery-date: March 2025
-- image_path: /bachhuyentrang25/3/20230104_181909_323680266_579689777297437_1029367772378673256_n.jpg
+- image_path: /bachhuyentrang25/3/20241001_183944_461890562_18418142443077003_4743983373344595035_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/3/
   gallery-name: 3
   gallery-date: March 2025
-- image_path: /bachhuyentrang25/5/20220518_190342_281559721_422802375929574_4085130036861996998_n.jpg
+- image_path: /bachhuyentrang25/5/20230313_175446_335645215_1844766722558123_3307623358581535396_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/5/
   gallery-name: 5
   gallery-date: March 2025
