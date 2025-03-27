@@ -9,7 +9,7 @@ images:
   gallery-folder: /gallery/chaucoor/1/
   gallery-name: 1
   gallery-date: March 2025
-- image_path: /chaucoor/2/20241223_103942_471281630_1115461786742015_7440938092680989361_n.jpg
+- image_path: /chaucoor/2/20241223_103942_470951993_1507774036551339_486264572143222841_n.jpg
   gallery-folder: /gallery/chaucoor/2/
   gallery-name: 2
   gallery-date: March 2025
