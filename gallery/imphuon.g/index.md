@@ -5,27 +5,27 @@ title: "Thuy Phuong Ng"
 description: "Instagram albums of Thuy Phuong Ng</br>. Username: imphuon.g"
 active: gallery
 images:
-- image_path: /imphuon.g/-1/20230301_184148_333466255_209784844929959_870494974932525911_n.jpg
+- image_path: /imphuon.g/-1/20240815_173642_455702750_514621050966919_3316681164904980568_n.jpg
   gallery-folder: /gallery/imphuon.g/-1/
   gallery-name: -1
   gallery-date: April 2025
-- image_path: /imphuon.g/0/20250107_181501_472813631_1274185280573896_156395811035224104_n.jpg
+- image_path: /imphuon.g/0/472944270_18381019342104936_5755947585961476451_n.jpg
   gallery-folder: /gallery/imphuon.g/0/
   gallery-name: 0
   gallery-date: April 2025
-- image_path: /imphuon.g/1/20250318_170233_481407980_18387534592104936_2486984683961682802_n2.jpg
+- image_path: /imphuon.g/1/20250318_170233_484780123_18391144537104936_7806131047716424451_n3.jpg
   gallery-folder: /gallery/imphuon.g/1/
   gallery-name: 1
   gallery-date: April 2025
-- image_path: /imphuon.g/2/3.jpg
+- image_path: /imphuon.g/2/4.jpg
   gallery-folder: /gallery/imphuon.g/2/
   gallery-name: 2
   gallery-date: April 2025
-- image_path: /imphuon.g/3/20240626_175300_448264147_482126340975555_1995857251791137941_n.jpg
+- image_path: /imphuon.g/3/449790781_18353420986104936_5996058368132215912_n.jpg
   gallery-folder: /gallery/imphuon.g/3/
   gallery-name: 3
   gallery-date: April 2025
-- image_path: /imphuon.g/4/20230902_165552_372754257_1095447574762701_8382264247576317612_n.jpg
+- image_path: /imphuon.g/4/20240407_194001_436343742_18341362519104936_7920500018294807290_n.jpg
   gallery-folder: /gallery/imphuon.g/4/
   gallery-name: 4
   gallery-date: April 2025
@@ -33,7 +33,7 @@ images:
   gallery-folder: /gallery/imphuon.g/5/
   gallery-name: 5
   gallery-date: April 2025
-- image_path: /imphuon.g/6/20240109_005357_417789683_181398965035871_110701509720507455_n.jpg
+- image_path: /imphuon.g/6/20240610_194309_448171450_1573692163194145_2412240484651491594_n.jpg
   gallery-folder: /gallery/imphuon.g/6/
   gallery-name: 6
   gallery-date: April 2025
