@@ -47,4 +47,9 @@ images:
   - image_path: sulyu/váy dài/snaptik_7489688974714359046_3.jpeg
   - image_path: sulyu/váy dài/snaptik_7495221425528179976_0.jpeg
   - image_path: sulyu/váy dài/snaptik_7495221425528179976_1.jpeg
+  - image_path: sulyu/váy dài/snaptik_7496775155704679698_0.jpeg
+  - image_path: sulyu/váy dài/snaptik_7496775155704679698_1.jpeg
+  - image_path: sulyu/váy dài/snaptik_7496775155704679698_2.jpeg
+  - image_path: sulyu/váy dài/snaptik_7496775155704679698_3.jpeg
+  - image_path: sulyu/váy dài/snaptik_7496775155704679698_4.jpeg
 ---

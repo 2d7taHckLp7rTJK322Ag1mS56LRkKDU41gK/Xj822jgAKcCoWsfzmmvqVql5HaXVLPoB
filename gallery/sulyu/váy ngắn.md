@@ -85,4 +85,7 @@ images:
   - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_2.jpeg
   - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_3.jpeg
   - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_4.jpeg
+  - image_path: sulyu/váy ngắn/snaptik_7496844776487030023_0.jpeg
+  - image_path: sulyu/váy ngắn/snaptik_7496844776487030023_1.jpeg
+  - image_path: sulyu/váy ngắn/snaptik_7496844776487030023_2.jpeg
 ---

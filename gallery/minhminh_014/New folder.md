@@ -74,4 +74,9 @@ images:
   - image_path: minhminh_014/New folder/snaptik_7466306813126872328_1.jpeg
   - image_path: minhminh_014/New folder/snaptik_7466306813126872328_2.jpeg
   - image_path: minhminh_014/New folder/snaptik_7466306813126872328_3.jpeg
+  - image_path: minhminh_014/New folder/snaptik_7495665345726795015_0.jpeg
+  - image_path: minhminh_014/New folder/snaptik_7495665345726795015_1.jpeg
+  - image_path: minhminh_014/New folder/snaptik_7495665345726795015_2.jpeg
+  - image_path: minhminh_014/New folder/snaptik_7495665345726795015_3.jpeg
+  - image_path: minhminh_014/New folder/snaptik_7495665345726795015_4.jpeg
 ---

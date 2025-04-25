@@ -13,6 +13,7 @@ images:
   - image_path: sulyu/quần ngắn/20250407_190403_489341589_18386346994138827_3488481863567730274_n.jpg
   - image_path: sulyu/quần ngắn/20250407_190403_489364490_18386347003138827_2689598744385017937_n.jpg
   - image_path: sulyu/quần ngắn/20250407_190403_489510768_18386346985138827_541760916530534313_n.jpg
+  - image_path: sulyu/quần ngắn/491432175_674904588279360_2878531752639275003_n.jpg
   - image_path: sulyu/quần ngắn/snaptik_7425132101860674823_0.jpeg
   - image_path: sulyu/quần ngắn/snaptik_7425132101860674823_1.jpeg
   - image_path: sulyu/quần ngắn/snaptik_7425132101860674823_2.jpeg
@@ -68,4 +69,7 @@ images:
   - image_path: sulyu/quần ngắn/snaptik_7495287820060282120_1.jpeg
   - image_path: sulyu/quần ngắn/snaptik_7495287820060282120_2.jpeg
   - image_path: sulyu/quần ngắn/snaptik_7495287820060282120_3.jpeg
+  - image_path: sulyu/quần ngắn/snaptik_7495680998164827400_0.jpeg
+  - image_path: sulyu/quần ngắn/snaptik_7495680998164827400_1.jpeg
+  - image_path: sulyu/quần ngắn/snaptik_7495680998164827400_2.jpeg
 ---
