@@ -6,7 +6,7 @@ description: "archive"
 active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
-- image_path: /leileinavie/binkini/20240405_140912_435598273_18035369668855820_1364039257181385084_n.jpg
+- image_path: /leileinavie/binkini/20241028_180755_464933000_18055991956855820_2269370184849238675_n.jpg
   gallery-folder: /gallery/leileinavie/binkini/
   gallery-name: binkini
   gallery-date: April 2025
