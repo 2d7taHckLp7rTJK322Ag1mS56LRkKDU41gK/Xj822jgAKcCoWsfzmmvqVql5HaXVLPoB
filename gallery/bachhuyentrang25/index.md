@@ -5,23 +5,23 @@ title: "Bạch Huyền Trang"
 description: "Instagram albums of Bạch Huyền Trang</br>. Username: bachhuyentrang25"
 active: gallery
 images:
-- image_path: /bachhuyentrang25/0/20250208_192453_476609238_18440176132077003_3782953822553214243_n.jpg
+- image_path: /bachhuyentrang25/0/20220720_182533_294590081_636295190814528_5045737653565131466_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/0/
   gallery-name: 0
   gallery-date: April 2025
-- image_path: /bachhuyentrang25/1/20210421_202156_175842036_243553437560161_5189876977327586154_n.jpg
+- image_path: /bachhuyentrang25/1/20210502_174725_180252760_129967805848151_739965512237555145_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/1/
   gallery-name: 1
   gallery-date: April 2025
-- image_path: /bachhuyentrang25/2/20211125_093856_260082548_6495167840524760_8387628200643777078_n.jpg
+- image_path: /bachhuyentrang25/2/20210719_180839_219550609_541670353638511_5245286071450014250_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/2/
   gallery-name: 2
   gallery-date: April 2025
-- image_path: /bachhuyentrang25/3/20230313_175446_335578255_1546742262502784_1126315181061717180_n.jpg
+- image_path: /bachhuyentrang25/3/20230629_190826_347427675_18338349640077003_3786995435300635615_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/3/
   gallery-name: 3
   gallery-date: April 2025
-- image_path: /bachhuyentrang25/5/20240928_194218_461567241_18417626236077003_5688474685438573390_n.jpg
+- image_path: /bachhuyentrang25/5/20230207_193026_329516910_935580590770505_8394828904075700405_n.jpg
   gallery-folder: /gallery/bachhuyentrang25/5/
   gallery-name: 5
   gallery-date: April 2025
