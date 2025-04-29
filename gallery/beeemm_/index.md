@@ -5,11 +5,11 @@ title: "Lâm Vũ Song Tuyến"
 description: "Instagram albums of Lâm Vũ Song Tuyến</br>. Username: _beeemm_"
 active: gallery
 images:
-- image_path: /beeemm_/0/20250212_181046_477918232_18489007171002844_949266269351967199_n.jpg
+- image_path: /beeemm_/0/20240715_184604_451216022_456865937155997_5598407685693758118_n.jpg
   gallery-folder: /gallery/beeemm_/0/
   gallery-name: 0
   gallery-date: April 2025
-- image_path: /beeemm_/1/20231010_193249_387669757_770149928202639_4591776757037488329_n.jpg
+- image_path: /beeemm_/1/20231010_193249_387269135_836748848230739_5793732727475028681_n.jpg
   gallery-folder: /gallery/beeemm_/1/
   gallery-name: 1
   gallery-date: April 2025
