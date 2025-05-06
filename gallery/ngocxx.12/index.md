@@ -5,28 +5,28 @@ title: "Chunn ✿∘ɷ∘✿"
 description: "Instagram albums of Chunn ✿∘ɷ∘✿</br>. Username: ngocxx.12"
 active: gallery
 images:
-- image_path: /ngocxx.12/-1/20240730_230833_453644413_3681450838832602_3263432646831277749_n.jpg
+- image_path: /ngocxx.12/-1/20240730_230833_453347189_454020790943568_5836611816953141575_n.jpg
   gallery-folder: /gallery/ngocxx.12/-1/
   gallery-name: -1
-  gallery-date: April 2025
-- image_path: /ngocxx.12/0/20240618_215555_448722382_1384182275584568_6826599702912272252_n.jpg
+  gallery-date: May 2025
+- image_path: /ngocxx.12/0/20221023_194508_312509056_513344573975858_5125769539663549332_n.jpg
   gallery-folder: /gallery/ngocxx.12/0/
   gallery-name: 0
-  gallery-date: April 2025
-- image_path: /ngocxx.12/1/20230812_213423_367017762_18303517075128170_7963091607013972577_n.jpg
+  gallery-date: May 2025
+- image_path: /ngocxx.12/1/20240102_185747_415941870_18325489138128170_2262018923398435667_n.jpg
   gallery-folder: /gallery/ngocxx.12/1/
   gallery-name: 1
-  gallery-date: April 2025
-- image_path: /ngocxx.12/2/20240902_194844_457882401_1022540696021882_8021263846154814231_n.jpg
+  gallery-date: May 2025
+- image_path: /ngocxx.12/2/20241213_164841_470031168_1318534632929019_5802323981155625321_n.jpg
   gallery-folder: /gallery/ngocxx.12/2/
   gallery-name: 2
-  gallery-date: April 2025
+  gallery-date: May 2025
 - image_path: /ngocxx.12/satin/20240114_202803_419864829_18327172804128170_5409195515108969566_n.jpg
   gallery-folder: /gallery/ngocxx.12/satin/
   gallery-name: satin
-  gallery-date: April 2025
-- image_path: /ngocxx.12/somi/20241002_095321_461716875_4104244013136805_8411939063691188382_n.jpg
+  gallery-date: May 2025
+- image_path: /ngocxx.12/somi/20241118_212350_467543775_1547784825864404_244095460004762068_n.jpg
   gallery-folder: /gallery/ngocxx.12/somi/
   gallery-name: somi
-  gallery-date: April 2025
+  gallery-date: May 2025
 ---

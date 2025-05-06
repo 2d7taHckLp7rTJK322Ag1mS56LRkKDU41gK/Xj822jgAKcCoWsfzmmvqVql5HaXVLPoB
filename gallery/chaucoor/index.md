@@ -5,16 +5,16 @@ title: "Ngọc Châu"
 description: "Instagram albums of Ngọc Châu</br>. Username: chaucoor"
 active: gallery
 images:
-- image_path: /chaucoor/1/20230928_070047_384548683_18009155476939252_4716663190012842815_n.jpg
+- image_path: /chaucoor/1/20240929_120958_461572030_889145716127394_3458511529200602532_n.jpg
   gallery-folder: /gallery/chaucoor/1/
   gallery-name: 1
-  gallery-date: April 2025
-- image_path: /chaucoor/2/20241223_103942_470951993_1507774036551339_486264572143222841_n.jpg
+  gallery-date: May 2025
+- image_path: /chaucoor/2/20240101_195045_415958504_18020621059939252_50195986299575693_n.jpg
   gallery-folder: /gallery/chaucoor/2/
   gallery-name: 2
-  gallery-date: April 2025
-- image_path: /chaucoor/3/20240426_203450_440807882_961750388916882_1509605549870692857_n.jpg
+  gallery-date: May 2025
+- image_path: /chaucoor/3/20240120_213021_420139212_1727976364359521_97491223437444904_n.jpg
   gallery-folder: /gallery/chaucoor/3/
   gallery-name: 3
-  gallery-date: April 2025
+  gallery-date: May 2025
 ---
