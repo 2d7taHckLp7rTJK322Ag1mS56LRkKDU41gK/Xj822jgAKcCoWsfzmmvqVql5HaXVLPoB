@@ -5,11 +5,11 @@ title: "Thao Lee"
 description: "Instagram albums of Thao Lee</br>. Username: thao2909"
 active: gallery
 images:
-- image_path: /thao2909/1/20241215_161615_470008826_1249671749585535_8348575962422835595_n.jpg
+- image_path: /thao2909/1/20221002_212128_310045370_830075108030026_1515057457437824163_n.jpg
   gallery-folder: /gallery/thao2909/1/
   gallery-name: 1
   gallery-date: May 2025
-- image_path: /thao2909/2/20240113_130506_418515553_3171683896309987_5558763490784822003_n.jpg
+- image_path: /thao2909/2/20240201_143127_491920293_3631903363621369_4195422164918475640_n.jpg
   gallery-folder: /gallery/thao2909/2/
   gallery-name: 2
   gallery-date: May 2025

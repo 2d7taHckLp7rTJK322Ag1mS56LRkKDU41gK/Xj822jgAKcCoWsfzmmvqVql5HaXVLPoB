@@ -5,7 +5,7 @@ title: "Nguyễn Thùy"
 description: "Instagram albums of Nguyễn Thùy</br>. Username: luc.thuyy"
 active: gallery
 images:
-- image_path: /luc.thuyy/-1/20240821_165242_456440643_352545917931889_6863120872887987152_n.jpg
+- image_path: /luc.thuyy/-1/20230811_225956_366459235_226702039897444_3750270675750879740_n.jpg
   gallery-folder: /gallery/luc.thuyy/-1/
   gallery-name: -1
   gallery-date: May 2025
@@ -13,23 +13,23 @@ images:
   gallery-folder: /gallery/luc.thuyy/0/
   gallery-name: 0
   gallery-date: May 2025
-- image_path: /luc.thuyy/1/20250131_152008_475874827_18394908775103589_5642561833316678215_n.jpg
+- image_path: /luc.thuyy/1/20230107_171730_323787121_949666899774098_8075472196912751321_n.jpg
   gallery-folder: /gallery/luc.thuyy/1/
   gallery-name: 1
   gallery-date: May 2025
-- image_path: /luc.thuyy/2/20230928_211112_383968222_316110561006725_8065016694682503701_n.jpg
+- image_path: /luc.thuyy/2/20240902_093503_457712903_2203859453310624_4157020855193863010_n.jpg
   gallery-folder: /gallery/luc.thuyy/2/
   gallery-name: 2
   gallery-date: May 2025
-- image_path: /luc.thuyy/3/20221101_130957_313852620_1365458290525432_1806280573502364555_n.jpg
+- image_path: /luc.thuyy/3/20220113_213418_271671073_144401631300749_4992607898743193291_n.jpg
   gallery-folder: /gallery/luc.thuyy/3/
   gallery-name: 3
   gallery-date: May 2025
-- image_path: /luc.thuyy/4/20230524_140551_348487010_2234305956776402_1290977502553533886_n.jpg
+- image_path: /luc.thuyy/4/20230602_222935_350583317_799842161498405_3223659883361081918_n.jpg
   gallery-folder: /gallery/luc.thuyy/4/
   gallery-name: 4
   gallery-date: May 2025
-- image_path: /luc.thuyy/5/20240226_203619_429885383_419781060611574_5883042130848877475_n.jpg
+- image_path: /luc.thuyy/5/20230913_202829_377517244_762239705707642_5839070969052587817_n.jpg
   gallery-folder: /gallery/luc.thuyy/5/
   gallery-name: 5
   gallery-date: May 2025
