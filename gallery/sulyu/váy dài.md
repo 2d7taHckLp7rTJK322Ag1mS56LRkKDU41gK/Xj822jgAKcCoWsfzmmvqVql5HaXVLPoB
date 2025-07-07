@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "_SU🎀 - Part váy dài"
-description: "Instagram album of _SU🎀, part váy dài.</br> Username: _sulyu"
+description: "Instagram album of _SU🎀, part váy dài."
 active: gallery
 album-title: "_SU🎀"
 images:
@@ -42,31 +42,4 @@ images:
   - image_path: sulyu/váy dài/20250424_112621_491505643_18388325695138827_7877961103726985153_n.jpg
   - image_path: sulyu/váy dài/20250424_112621_491517045_18388325743138827_946699032646075425_n.jpg
   - image_path: sulyu/váy dài/20250424_112621_491689431_18388325704138827_8701353151521988556_n.jpg
-  - image_path: sulyu/váy dài/snaptik_7425520030961470728_0.jpeg
-  - image_path: sulyu/váy dài/snaptik_7425520030961470728_1.jpeg
-  - image_path: sulyu/váy dài/snaptik_7425520030961470728_2.jpeg
-  - image_path: sulyu/váy dài/snaptik_7425520030961470728_3.jpeg
-  - image_path: sulyu/váy dài/snaptik_7425520030961470728_4.jpeg
-  - image_path: sulyu/váy dài/snaptik_7425520030961470728_5.jpeg
-  - image_path: sulyu/váy dài/snaptik_7428899931051674901_0.jpeg
-  - image_path: sulyu/váy dài/snaptik_7428899931051674901_1.jpeg
-  - image_path: sulyu/váy dài/snaptik_7428899931051674901_2.jpeg
-  - image_path: sulyu/váy dài/snaptik_7428899931051674901_3.jpeg
-  - image_path: sulyu/váy dài/snaptik_7446312370663623944_0.jpeg
-  - image_path: sulyu/váy dài/snaptik_7446312370663623944_1.jpeg
-  - image_path: sulyu/váy dài/snaptik_7446312370663623944_2.jpeg
-  - image_path: sulyu/váy dài/snaptik_7446312370663623944_3.jpeg
-  - image_path: sulyu/váy dài/snaptik_7446312370663623944_4.jpeg
-  - image_path: sulyu/váy dài/snaptik_7446312370663623944_5.jpeg
-  - image_path: sulyu/váy dài/snaptik_7489688974714359046_0.jpeg
-  - image_path: sulyu/váy dài/snaptik_7489688974714359046_1.jpeg
-  - image_path: sulyu/váy dài/snaptik_7489688974714359046_2.jpeg
-  - image_path: sulyu/váy dài/snaptik_7489688974714359046_3.jpeg
-  - image_path: sulyu/váy dài/snaptik_7495221425528179976_0.jpeg
-  - image_path: sulyu/váy dài/snaptik_7495221425528179976_1.jpeg
-  - image_path: sulyu/váy dài/snaptik_7496775155704679698_0.jpeg
-  - image_path: sulyu/váy dài/snaptik_7496775155704679698_1.jpeg
-  - image_path: sulyu/váy dài/snaptik_7496775155704679698_2.jpeg
-  - image_path: sulyu/váy dài/snaptik_7496775155704679698_3.jpeg
-  - image_path: sulyu/váy dài/snaptik_7496775155704679698_4.jpeg
 ---

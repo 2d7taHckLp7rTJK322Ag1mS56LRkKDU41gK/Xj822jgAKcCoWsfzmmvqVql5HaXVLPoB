@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part quandai"
-description: "Instagram album of Trần Bích Triều Tiên, part quandai.</br> Username: tienbabie_24"
+description: "Instagram album of Trần Bích Triều Tiên, part quandai."
 active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:

@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "_SU🎀 - Part quần ngắn"
-description: "Instagram album of _SU🎀, part quần ngắn.</br> Username: _sulyu"
+description: "Instagram album of _SU🎀, part quần ngắn."
 active: gallery
 album-title: "_SU🎀"
 images:
@@ -126,62 +126,4 @@ images:
   - image_path: sulyu/quần ngắn/20250421_140731_491468342_18387980761138827_1701502613650515994_n.jpg
   - image_path: sulyu/quần ngắn/20250421_140731_491495678_18387980677138827_8295910932328958018_n.jpg
   - image_path: sulyu/quần ngắn/491432175_674904588279360_2878531752639275003_n.jpg
-  - image_path: sulyu/quần ngắn/snaptik_7425132101860674823_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7425132101860674823_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7425132101860674823_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7425132101860674823_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7443805616470052114_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7443805616470052114_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7443805616470052114_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7451514763978280200_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7451514763978280200_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7451514763978280200_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7451514763978280200_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7451514763978280200_4.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7451514763978280200_5.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7451514763978280200_6.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7456381921942129928_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7456381921942129928_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7456381921942129928_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7456381921942129928_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_4.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_5.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_6.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7471509469734636818_7.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_4.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_5.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_6.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_7.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_8.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7472697199256980754_9.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7473858093663800594_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7473858093663800594_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7473858093663800594_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7473858093663800594_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7473858093663800594_4.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7473858093663800594_5.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_4.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_5.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_6.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_7.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7477569811166301447_8.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7495287820060282120_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7495287820060282120_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7495287820060282120_2.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7495287820060282120_3.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7495680998164827400_0.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7495680998164827400_1.jpeg
-  - image_path: sulyu/quần ngắn/snaptik_7495680998164827400_2.jpeg
 ---

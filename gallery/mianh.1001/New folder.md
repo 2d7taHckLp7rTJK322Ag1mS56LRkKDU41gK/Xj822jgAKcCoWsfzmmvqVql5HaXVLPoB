@@ -1,11 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "album"
-description: "masonry"
+title: "Unknown - Part New folder"
+description: "Instagram album of Unknown, part New folder."
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 9th album"
+album-title: "Unknown"
 images:
   - image_path: mianh.1001/New folder/20230917_193241_379670462_17992423343214000_28079941155144246_n.jpg
   - image_path: mianh.1001/New folder/20231008_195724_387732194_17994952838214000_7050907774019031861_n.jpg

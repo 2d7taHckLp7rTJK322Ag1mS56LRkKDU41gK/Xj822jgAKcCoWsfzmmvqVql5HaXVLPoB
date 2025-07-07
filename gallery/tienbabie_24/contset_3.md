@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part contset_3"
-description: "Instagram album of Trần Bích Triều Tiên, part contset_3.</br> Username: tienbabie_24"
+description: "Instagram album of Trần Bích Triều Tiên, part contset_3."
 active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:

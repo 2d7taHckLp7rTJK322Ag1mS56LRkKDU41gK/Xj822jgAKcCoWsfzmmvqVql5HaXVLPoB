@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Thuy Trang Nguyen - Part new"
-description: "Instagram album of Thuy Trang Nguyen, part new.</br> Username: chin_19022"
+description: "Instagram album of Thuy Trang Nguyen, part new."
 active: gallery
 album-title: "Thuy Trang Nguyen"
 images:

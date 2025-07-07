@@ -1,11 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "album"
-description: "masonry"
+title: "Unknown - Part vay"
+description: "Instagram album of Unknown, part vay."
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 9th album"
+album-title: "Unknown"
 images:
   - image_path: maitho9x/vay/20220118_093741_272058427_622377469000463_491538663819127580_n.jpg
   - image_path: maitho9x/vay/20220309_082053_275472723_347222893983120_4935267973482468646_n.jpg

@@ -1,11 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "album"
-description: "masonry"
+title: "Unknown - Part bikini"
+description: "Instagram album of Unknown, part bikini."
 active: gallery
-header-img: "img/gallery-bg.jpg"
-album-title: "my 9th album"
+album-title: "Unknown"
 images:
   - image_path: maitho9x/bikini/20220116_001125_271904464_4840522186000284_5561984548454028347_n.jpg
   - image_path: maitho9x/bikini/20220214_110450_273956363_653220572547322_4405435700803870435_n.jpg

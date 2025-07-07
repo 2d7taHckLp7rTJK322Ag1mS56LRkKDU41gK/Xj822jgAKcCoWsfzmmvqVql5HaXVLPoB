@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Phương Linh Võ - Part body"
-description: "Instagram album of Phương Linh Võ, part body.</br> Username: plinhhhhh"
+description: "Instagram album of Phương Linh Võ, part body."
 active: gallery
 album-title: "Phương Linh Võ"
 images:

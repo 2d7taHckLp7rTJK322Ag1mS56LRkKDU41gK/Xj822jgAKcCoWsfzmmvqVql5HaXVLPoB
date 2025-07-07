@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Trịnh Thị Hải - Part sm"
-description: "Instagram album of Trịnh Thị Hải, part sm.</br> Username: iamhaiiii"
+description: "Instagram album of Trịnh Thị Hải, part sm."
 active: gallery
 album-title: "Trịnh Thị Hải"
 images:

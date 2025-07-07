@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "_SU🎀 - Part váy ngắn"
-description: "Instagram album of _SU🎀, part váy ngắn.</br> Username: _sulyu"
+description: "Instagram album of _SU🎀, part váy ngắn."
 active: gallery
 album-title: "_SU🎀"
 images:
@@ -90,46 +90,4 @@ images:
   - image_path: sulyu/váy ngắn/20250317_154918_484532356_18383774920138827_3044938993565106349_n.jpg
   - image_path: sulyu/váy ngắn/20250317_154918_484842618_18383774899138827_325788167909399363_n.jpg
   - image_path: sulyu/váy ngắn/20250317_154918_485129995_18383774911138827_8408272515100244283_n.jpg
-  - image_path: sulyu/váy ngắn/snaptik_7426321430976990471_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7426321430976990471_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7432278977663765778_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7432278977663765778_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7432278977663765778_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7432278977663765778_3.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7434505718239104263_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7434505718239104263_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7434505718239104263_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7434505718239104263_3.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7434505718239104263_4.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7448533562556501266_4.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7453730372946267399_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7453730372946267399_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7453730372946267399_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7465927204170403080_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7476389745787030792_3.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7476389745787030792_4.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481252131622735111_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481252131622735111_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481252131622735111_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481252131622735111_3.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481933237535739154_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481933237535739154_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481933237535739154_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481933237535739154_3.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481933237535739154_4.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7481933237535739154_5.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7482736490548677906_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7482736490548677906_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7482736490548677906_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7483884083399937287_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7483884083399937287_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7483884083399937287_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_2.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_3.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7491315441944513799_4.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7496844776487030023_0.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7496844776487030023_1.jpeg
-  - image_path: sulyu/váy ngắn/snaptik_7496844776487030023_2.jpeg
 ---

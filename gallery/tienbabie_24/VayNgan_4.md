@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part VayNgan_4"
-description: "Instagram album of Trần Bích Triều Tiên, part VayNgan_4.</br> Username: tienbabie_24"
+description: "Instagram album of Trần Bích Triều Tiên, part VayNgan_4."
 active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:

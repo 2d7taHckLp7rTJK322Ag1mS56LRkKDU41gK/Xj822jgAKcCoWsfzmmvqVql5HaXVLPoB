@@ -2,7 +2,7 @@
 layout: album
 resource: instagram
 title: "Chunn ✿∘ɷ∘✿ - Part satin"
-description: "Instagram album of Chunn ✿∘ɷ∘✿, part satin.</br> Username: ngocxx.12"
+description: "Instagram album of Chunn ✿∘ɷ∘✿, part satin."
 active: gallery
 album-title: "Chunn ✿∘ɷ∘✿"
 images:
