@@ -25,7 +25,7 @@ images:
   resource: instagram
   gallery-folder: /gallery/chin_19022/
   gallery-name: "Thuy Trang Nguyen"
-- image_path: None
+- image_path: /dyngyn.nt/20230416_092921_330007422_571062348339813_6252361284827574522_n.jpg
   resource: instagram
   gallery-folder: /gallery/dyngyn.nt/
   gallery-name: "Dy Nguyên"
@@ -97,7 +97,7 @@ images:
   resource: instagram
   gallery-folder: /gallery/tienbabie_24/
   gallery-name: "Trần Bích Triều Tiên"
-- image_path: None
+- image_path: /tienbabie_dtth/set_0 (1).jpg
   resource: instagram
   gallery-folder: /gallery/tienbabie_dtth/
   gallery-name: "Unknown"
