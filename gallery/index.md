@@ -77,10 +77,18 @@ images:
   resource: instagram
   gallery-folder: /gallery/ngocxx.12/
   gallery-name: "Chunn ✿∘ɷ∘✿"
+- image_path: /npnhi_00/0/20240320_192531_434009896_1427880127831266_7010472295001184862_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/npnhi_00/
+  gallery-name: "𝑷𝒚𝒏"
 - image_path: /plinhhhhh/-1/20190724_194504_66712430_2308580662510382_469962428154578004_n.jpg
   resource: instagram
   gallery-folder: /gallery/plinhhhhh/
   gallery-name: "Phương Linh Võ"
+- image_path: /quynhtram.7777/1/20230208_103051_328991973_1938754903140889_1638979020206482867_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/quynhtram.7777/
+  gallery-name: "Quỳnh Trâm"
 - image_path: /sulyu/quần dài/20240203_175241_424560992_921268919577047_8169774877679407313_n.jpg
   resource: instagram
   gallery-folder: /gallery/sulyu/
