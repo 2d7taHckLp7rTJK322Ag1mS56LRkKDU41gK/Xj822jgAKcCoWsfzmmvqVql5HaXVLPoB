@@ -21,6 +21,10 @@ images:
   gallery-folder: /gallery/ig.satin/NguyenNhu/
   gallery-name: NguyenNhu
   gallery-date: May 2025
+- image_path: /satin/pekeongot.2k2/20220816_182905_299708823_1263071281124057_7944571854910510993_n.jpg
+  gallery-folder: /gallery/ig.satin/pekeongot.2k2/
+  gallery-name: pekeongot.2k2
+  gallery-date: May 2025
 - image_path: /satin/quynhtram.7777/20210515_170658_185785755_1578030562386992_5283629615853189472_n.jpg
   gallery-folder: /gallery/ig.satin/quynhtram.7777/
   gallery-name: quynhtram.7777

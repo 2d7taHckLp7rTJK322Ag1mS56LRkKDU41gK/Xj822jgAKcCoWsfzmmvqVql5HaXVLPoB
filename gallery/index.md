@@ -89,6 +89,10 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig.npnhi_00/
   gallery-name: "𝑷𝒚𝒏"
+- image_path: /pekeongot.2k2/-1/20190511_220004_59472920_875059756186911_6947914656426542006_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.pekeongot.2k2/
+  gallery-name: "Trương Võ Huyền Trân"
 - image_path: /plinhhhhh/-1/20190724_194504_66712430_2308580662510382_469962428154578004_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.plinhhhhh/

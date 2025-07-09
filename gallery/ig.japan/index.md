@@ -13,6 +13,18 @@ images:
   gallery-folder: /gallery/ig.japan/NguyenNhu/
   gallery-name: NguyenNhu
   gallery-date: May 2025
+- image_path: /japan/pekeongot.2k2/20200209_125325_83638636_124752129066955_7957387895663514883_n.jpg
+  gallery-folder: /gallery/ig.japan/pekeongot.2k2/
+  gallery-name: pekeongot.2k2
+  gallery-date: May 2025
+- image_path: /japan/q.cutee0812/20240111_141402_417946120_367399919269556_1197403919795698247_n.jpg
+  gallery-folder: /gallery/ig.japan/q.cutee0812/
+  gallery-name: q.cutee0812
+  gallery-date: May 2025
+- image_path: /japan/teamy_99/20240304_195836_431312585_18399759130065911_7212304773075369339_n.jpg
+  gallery-folder: /gallery/ig.japan/teamy_99/
+  gallery-name: teamy_99
+  gallery-date: May 2025
 - image_path: /japan/trucanhnguyen/20250612_210847_505462121_18508871077023506_835232232359070866_n.jpg
   gallery-folder: /gallery/ig.japan/trucanhnguyen/
   gallery-name: trucanhnguyen
