@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Unknown - Part vay"
-description: "Instagram album of Unknown, part vay."
+title: "maitho9x - Part vay"
+description: "Instagram album of maitho9x, part vay."
 active: gallery
-album-title: "Unknown"
+album-title: "maitho9x"
 images:
   - image_path: maitho9x/vay/20220118_093741_272058427_622377469000463_491538663819127580_n.jpg
   - image_path: maitho9x/vay/20220309_082053_275472723_347222893983120_4935267973482468646_n.jpg

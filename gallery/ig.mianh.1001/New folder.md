@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Unknown - Part New folder"
-description: "Instagram album of Unknown, part New folder."
+title: "mianh.1001 - Part New folder"
+description: "Instagram album of mianh.1001, part New folder."
 active: gallery
-album-title: "Unknown"
+album-title: "mianh.1001"
 images:
   - image_path: mianh.1001/New folder/20230917_193241_379670462_17992423343214000_28079941155144246_n.jpg
   - image_path: mianh.1001/New folder/20231008_195724_387732194_17994952838214000_7050907774019031861_n.jpg
@@ -154,7 +154,6 @@ images:
   - image_path: mianh.1001/New folder/20250110_102447_473153519_1660856864812233_2363572165003048140_n.jpg
   - image_path: mianh.1001/New folder/20250111_171152_473006054_2018335365339761_5621668010733985376_n.jpg
   - image_path: mianh.1001/New folder/20250111_171152_473381586_418137291295175_3086493283504975211_n.jpg
-  - image_path: mianh.1001/New folder/20250111_171152_473431391_544736468574037_8736664125526214333_n.jpg
   - image_path: mianh.1001/New folder/20250111_171152_473450853_3810516932547161_8927036878695425150_n.jpg
   - image_path: mianh.1001/New folder/20250111_171152_473534751_1132082868055529_6634132578709989672_n.jpg
   - image_path: mianh.1001/New folder/20250111_171152_473536929_1600578167246283_6500318742312712241_n.jpg

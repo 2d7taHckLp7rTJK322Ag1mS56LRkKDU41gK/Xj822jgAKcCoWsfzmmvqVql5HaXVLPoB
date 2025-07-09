@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Unknown - Part bikini"
-description: "Instagram album of Unknown, part bikini."
+title: "ndien.205 - Part bikini"
+description: "Instagram album of ndien.205, part bikini."
 active: gallery
-album-title: "Unknown"
+album-title: "ndien.205"
 images:
   - image_path: ndien.205/bikini/20230603_190343_484083742_2024963394693906_8976805770500540487_n.jpg
   - image_path: ndien.205/bikini/20230603_190343_484493310_2024963371360575_29055752861287622_n.jpg

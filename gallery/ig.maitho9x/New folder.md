@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Unknown - Part New folder"
-description: "Instagram album of Unknown, part New folder."
+title: "maitho9x - Part New folder"
+description: "Instagram album of maitho9x, part New folder."
 active: gallery
-album-title: "Unknown"
+album-title: "maitho9x"
 images:
   - image_path: maitho9x/New folder/20211226_161305_269931054_638478333937857_3764819903471248887_n.jpg
   - image_path: maitho9x/New folder/20220115_161018_271930208_913042109342666_9176150938124420774_n.jpg

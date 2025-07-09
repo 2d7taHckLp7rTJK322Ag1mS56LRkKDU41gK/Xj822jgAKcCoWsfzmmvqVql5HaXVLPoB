@@ -41,10 +41,10 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig.imphuon.g/
   gallery-name: "Thuy Phuong Ng"
-- image_path: /japan/1/20250425_003720_491019791_18512616823011320_4476028323892410438_n.jpg
+- image_path: /japan/NguyenNhu/1129664584901716_430743994_1129665394901635_8252488914385102092_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.japan/
-  gallery-name: "Unknown"
+  gallery-name: "japan"
 - image_path: /kcuong_1903/1/20240206_181511_485370429_2126514077790474_4699931617037724680_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.kcuong_1903/
@@ -52,7 +52,7 @@ images:
 - image_path: /leileinavie/binkini/20240314_165049_432827943_1177599873225978_7764645924330358126_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.leileinavie/
-  gallery-name: "Unknown"
+  gallery-name: "leileinavie"
 - image_path: /linhlig1102/1/20190913_163342_69104711_741871692930635_3799131313269528585_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.linhlig1102/
@@ -64,19 +64,19 @@ images:
 - image_path: /maitho9x/New folder/20211226_161305_269931054_638478333937857_3764819903471248887_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.maitho9x/
-  gallery-name: "Unknown"
+  gallery-name: "maitho9x"
 - image_path: /mianh.1001/New folder/20230917_193241_379670462_17992423343214000_28079941155144246_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.mianh.1001/
-  gallery-name: "Unknown"
+  gallery-name: "mianh.1001"
 - image_path: /minhminh_014/New folder/Snaptik.app_73682621093455004322.jpg
   resource: instagram
   gallery-folder: /gallery/ig.minhminh_014/
-  gallery-name: "Unknown"
+  gallery-name: "minhminh_014"
 - image_path: /ndien.205/1/20240512_174758_436351122_428013509968901_314200927198893975_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.ndien.205/
-  gallery-name: "Unknown"
+  gallery-name: "ndien.205"
 - image_path: /ngocphuong2000/0/20210128_193759_143819733_795828541277583_366600557517428699_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.ngocphuong2000/
@@ -97,10 +97,10 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig.quynhtram.7777/
   gallery-name: "Quỳnh Trâm"
-- image_path: /sulyu/quần dài/20240203_175241_424560992_921268919577047_8169774877679407313_n.jpg
+- image_path: /satin/NguyenNhu/1068128434388665_402999866_1068129237721918_2774767527195796319_n.jpg
   resource: instagram
-  gallery-folder: /gallery/ig.sulyu/
-  gallery-name: "_SU🎀"
+  gallery-folder: /gallery/ig.satin/
+  gallery-name: "satin"
 - image_path: /teamy_99/0/20210920_191403_242228139_1581601022181013_2038206486455308856_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.teamy_99/
@@ -116,11 +116,15 @@ images:
 - image_path: /tienbabie_dtth/1/set_0 (1).jpg
   resource: instagram
   gallery-folder: /gallery/ig.tienbabie_dtth/
-  gallery-name: "Unknown"
+  gallery-name: "tienbabie_dtth"
 - image_path: /trangg.phaam/0/20220609_201026_286400238_577126460441014_2008822719025806882_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.trangg.phaam/
   gallery-name: "Trang Phạm (Huyen Trang Pham)"
+- image_path: /trucanhnguyenn/1/486624914_17903894952109740_8719866979350289535_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.trucanhnguyenn/
+  gallery-name: "Trúc Anh"
 - image_path: /uyntu.tr/-1/20230523_191340_348845655_243162461649598_8833001784888118270_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.uyntu.tr/
@@ -133,8 +137,8 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig._beeemm_/
   gallery-name: "Lâm Vũ Song Tuyến"
-- image_path: None
+- image_path: /_sulyu/quần dài/20240203_175241_424560992_921268919577047_8169774877679407313_n.jpg
   resource: instagram
-  gallery-folder: /gallery/ig.__hakimhakim/
-  gallery-name: "Unknown"
+  gallery-folder: /gallery/ig._sulyu/
+  gallery-name: "_SU🎀"
 ---

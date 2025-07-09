@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Unknown - Part New folder"
-description: "Instagram album of Unknown, part New folder."
+title: "minhminh_014 - Part New folder"
+description: "Instagram album of minhminh_014, part New folder."
 active: gallery
-album-title: "Unknown"
+album-title: "minhminh_014"
 images:
   - image_path: minhminh_014/New folder/Snaptik.app_73682621093455004322.jpg
   - image_path: minhminh_014/New folder/Snaptik.app_73682621093455004323.jpg

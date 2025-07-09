@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Unknown - Part binkini"
-description: "Instagram album of Unknown, part binkini."
+title: "leileinavie - Part binkini"
+description: "Instagram album of leileinavie, part binkini."
 active: gallery
-album-title: "Unknown"
+album-title: "leileinavie"
 images:
   - image_path: leileinavie/binkini/20240314_165049_432827943_1177599873225978_7764645924330358126_n.jpg
   - image_path: leileinavie/binkini/20240314_214124_431811130_18033261748855820_7039181622353441106_n.jpg
