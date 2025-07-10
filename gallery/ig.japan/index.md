@@ -29,7 +29,7 @@ images:
   gallery-folder: /gallery/ig.japan/trucanhnguyen/
   gallery-name: trucanhnguyen
   gallery-date: May 2025
-- image_path: /japan/__hakimhakim/20250425_003720_491019791_18512616823011320_4476028323892410438_n.jpg
+- image_path: /japan/__hakimhakim/20240430_124250_439866785_18443519992011320_1874062896974640440_n.jpg
   gallery-folder: /gallery/ig.japan/__hakimhakim/
   gallery-name: __hakimhakim
   gallery-date: May 2025

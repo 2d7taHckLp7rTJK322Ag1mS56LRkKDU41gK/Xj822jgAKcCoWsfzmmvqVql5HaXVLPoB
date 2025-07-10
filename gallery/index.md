@@ -5,6 +5,10 @@ description: "Gallery of Instagram users."
 active: gallery
 header-img: "img/gallery-bg.jpg"
 images:
+- image_path: /24iz.u/-1/20240912_095935_459243503_1233630894484682_643098887340002909_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.24iz.u/
+  gallery-name: "˙✧˖° ༘⋆｡˚ᴜɴᴜɴ˚⋅♡🪐༘⋆"
 - image_path: /bachhuyentrang25/0/20200306_191700_83691816_257081758643404_2821182209294011495_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.bachhuyentrang25/
@@ -137,7 +141,7 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig._.thngi_/
   gallery-name: "🐚Thnghi𓇼 ᥫ᭡"
-- image_path: /_beeemm_/-1/20250320_124854_485519336_18496300696002844_8029206693327478394_n.jpg
+- image_path: /_beeemm_/-1/20220727_185733_295659211_188665463515463_2947209009069416101_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig._beeemm_/
   gallery-name: "Lâm Vũ Song Tuyến"
@@ -145,4 +149,12 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig._sulyu/
   gallery-name: "_SU🎀"
+- image_path: /_tbo.em/1/20221028_151449_312829397_634050428358030_5629274324396254580_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig._tbo.em/
+  gallery-name: "Trương Trần Thảo Bo"
+- image_path: /__hakimhakim/-1/20210905_002756_241492239_834136480629786_2891625760871982240_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.__hakimhakim/
+  gallery-name: "Hà Kim 🧸"
 ---
