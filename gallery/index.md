@@ -57,6 +57,10 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig.leileinavie/
   gallery-name: "leileinavie"
+- image_path: /linh.kln/New folder (2)/20200802_101751_116018226_1760308337450677_1968624485189741110_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.linh.kln/
+  gallery-name: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉"
 - image_path: /linhlig1102/1/20190913_163342_69104711_741871692930635_3799131313269528585_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.linhlig1102/
@@ -137,6 +141,10 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig.uyntu.tr/
   gallery-name: "Trần Ngọc Tú Uyên"
+- image_path: /yennhi.nguyeng/-1/20220410_154343_278053399_357580563066843_1359707325887893549_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.yennhi.nguyeng/
+  gallery-name: "Nguyễn Yến Nhi"
 - image_path: /_.thngi_/New folder (10)/20241104_225441_465798784_1499909254027382_9193452909904676490_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig._.thngi_/
