@@ -57,6 +57,10 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig.leileinavie/
   gallery-name: "leileinavie"
+- image_path: /libly.10/0/20250406_180455_488586027_18000234062770441_5722253366666128126_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.libly.10/
+  gallery-name: "Bui Ngoc Nhien"
 - image_path: /linh.kln/New folder (2)/20200802_101751_116018226_1760308337450677_1968624485189741110_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.linh.kln/
@@ -105,6 +109,10 @@ images:
   resource: instagram
   gallery-folder: /gallery/ig.plinhhhhh/
   gallery-name: "Phương Linh Võ"
+- image_path: /q.cutee0812/1/158672446164704_169465070_158672449498037_4593768615840575763_n.jpg
+  resource: instagram
+  gallery-folder: /gallery/ig.q.cutee0812/
+  gallery-name: "Quỳnh Alee"
 - image_path: /quynhtram.7777/1/20230208_103051_328991973_1938754903140889_1638979020206482867_n.jpg
   resource: instagram
   gallery-folder: /gallery/ig.quynhtram.7777/

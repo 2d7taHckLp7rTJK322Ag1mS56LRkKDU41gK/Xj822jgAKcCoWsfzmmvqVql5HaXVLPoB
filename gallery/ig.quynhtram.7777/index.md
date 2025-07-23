@@ -25,6 +25,10 @@ images:
   gallery-folder: /gallery/ig.quynhtram.7777/New folder (2)/
   gallery-name: New folder (2)
   gallery-date: May 2025
+- image_path: /quynhtram.7777/New folder (3)/20200901_124946_118586091_366056061082175_2840704920009305428_n.jpg
+  gallery-folder: /gallery/ig.quynhtram.7777/New folder (3)/
+  gallery-name: New folder (3)
+  gallery-date: May 2025
 - image_path: /quynhtram.7777/so-mi/20200826_021517_118229216_1016431148776996_1320809671550817948_n.jpg
   gallery-folder: /gallery/ig.quynhtram.7777/so-mi/
   gallery-name: so-mi
