@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Phương Linh Võ - Part body"
 description: "Instagram album of Phương Linh Võ, part body."
-active: instagram
+active: gallery
 album-title: "Phương Linh Võ"
 images:
   - image_path: plinhhhhh/body/20250122_203545_474691426_18482116720009573_3772478610131506963_n.jpg

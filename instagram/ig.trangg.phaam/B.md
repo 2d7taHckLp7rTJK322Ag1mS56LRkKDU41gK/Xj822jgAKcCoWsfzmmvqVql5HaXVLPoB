@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trang Phạm (Huyen Trang Pham) - Part B"
 description: "Instagram album of Trang Phạm (Huyen Trang Pham), part B."
-active: instagram
+active: gallery
 album-title: "Trang Phạm (Huyen Trang Pham)"
 images:
   - image_path: trangg.phaam/B/20200909_205440_118944031_639470127006755_806217371858680051_n.jpg

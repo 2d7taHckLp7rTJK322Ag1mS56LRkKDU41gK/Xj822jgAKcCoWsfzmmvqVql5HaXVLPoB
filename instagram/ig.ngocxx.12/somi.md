@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Chunn ✿∘ɷ∘✿ - Part somi"
 description: "Instagram album of Chunn ✿∘ɷ∘✿, part somi."
-active: instagram
+active: gallery
 album-title: "Chunn ✿∘ɷ∘✿"
 images:
   - image_path: ngocxx.12/somi/20240607_174134_447937514_860506092574857_8342439820757118388_n.jpg

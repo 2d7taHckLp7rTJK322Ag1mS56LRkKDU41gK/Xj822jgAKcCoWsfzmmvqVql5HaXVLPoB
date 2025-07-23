@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉 - Part New folder"
 description: "Instagram album of 𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉, part New folder."
-active: instagram
+active: gallery
 album-title: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉"
 images:
   - image_path: linh.kln/New folder/20250629_194000_504730116_18506239261008644_6504050147540140828_n.jpg

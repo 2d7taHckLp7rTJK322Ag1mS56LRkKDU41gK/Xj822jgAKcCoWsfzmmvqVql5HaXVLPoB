@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trịnh Thị Hải - Part sm"
 description: "Instagram album of Trịnh Thị Hải, part sm."
-active: instagram
+active: gallery
 album-title: "Trịnh Thị Hải"
 images:
   - image_path: iamhaiiii/sm/20230220_191611_332324446_1799385703776920_4637706278033854365_n.jpg

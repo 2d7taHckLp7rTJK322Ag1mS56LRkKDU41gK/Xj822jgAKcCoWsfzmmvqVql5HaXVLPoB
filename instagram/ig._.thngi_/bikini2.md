@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "🐚Thnghi𓇼 ᥫ᭡ - Part bikini2"
 description: "Instagram album of 🐚Thnghi𓇼 ᥫ᭡, part bikini2."
-active: instagram
+active: gallery
 album-title: "🐚Thnghi𓇼 ᥫ᭡"
 images:
   - image_path: _.thngi_/bikini2/20250531_195717_502420181_18307931062233157_2845126252293933232_n.jpg

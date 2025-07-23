@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Chunn ✿∘ɷ∘✿ - Part satin"
 description: "Instagram album of Chunn ✿∘ɷ∘✿, part satin."
-active: instagram
+active: gallery
 album-title: "Chunn ✿∘ɷ∘✿"
 images:
   - image_path: ngocxx.12/satin/20231213_134205_410348767_18322466473128170_3255843587164757816_n.jpg

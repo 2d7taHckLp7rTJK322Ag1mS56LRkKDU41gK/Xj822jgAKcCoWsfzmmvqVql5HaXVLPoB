@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Quỳnh Trâm - Part vay"
 description: "Instagram album of Quỳnh Trâm, part vay."
-active: instagram
+active: gallery
 album-title: "Quỳnh Trâm"
 images:
   - image_path: quynhtram.7777/vay/20220901_212820_301159893_2008884422650472_5498490195871786352_n.jpg

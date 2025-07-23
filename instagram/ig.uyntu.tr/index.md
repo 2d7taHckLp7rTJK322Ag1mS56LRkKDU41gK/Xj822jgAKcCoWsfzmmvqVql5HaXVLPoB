@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trần Ngọc Tú Uyên"
 description: "Instagram user profile of Trần Ngọc Tú Uyên."
-active: instagram
+active: gallery
 images: 
 - image_path: /uyntu.tr/-1/20230523_191340_348845655_243162461649598_8833001784888118270_n.jpg
   instagram-folder: /instagram/ig.uyntu.tr/-1/

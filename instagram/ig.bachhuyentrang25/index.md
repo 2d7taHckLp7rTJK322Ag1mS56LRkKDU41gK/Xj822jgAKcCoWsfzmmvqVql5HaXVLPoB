@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Bạch Huyền Trang"
 description: "Instagram user profile of Bạch Huyền Trang."
-active: instagram
+active: gallery
 images: 
 - image_path: /bachhuyentrang25/0/20200306_191700_83691816_257081758643404_2821182209294011495_n.jpg
   instagram-folder: /instagram/ig.bachhuyentrang25/0/

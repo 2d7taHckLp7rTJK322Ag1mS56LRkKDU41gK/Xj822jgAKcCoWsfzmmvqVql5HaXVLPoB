@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "satin - Part mianh.1001"
 description: "Instagram album of satin, part mianh.1001."
-active: instagram
+active: gallery
 album-title: "satin"
 images:
   - image_path: satin/mianh.1001/20240107_194310_416916209_18005920364214000_4865527038397256605_n.jpg

@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "satin - Part trucanhnguyen"
 description: "Instagram album of satin, part trucanhnguyen."
-active: instagram
+active: gallery
 album-title: "satin"
 images:
   - image_path: satin/trucanhnguyen/20240630_193147_449466234_750072130406338_8039787054552951016_n.jpg

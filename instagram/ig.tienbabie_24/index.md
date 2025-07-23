@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trần Bích Triều Tiên"
 description: "Instagram user profile of Trần Bích Triều Tiên."
-active: instagram
+active: gallery
 images: 
 - image_path: /tienbabie_24/contset_2/1751577055696612_484788678_1799865530867764_7584064506195847072_n.jpg
   instagram-folder: /instagram/ig.tienbabie_24/contset_2/

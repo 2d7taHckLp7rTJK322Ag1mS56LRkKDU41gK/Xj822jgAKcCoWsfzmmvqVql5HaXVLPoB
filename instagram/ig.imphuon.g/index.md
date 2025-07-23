@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Thuy Phuong Ng"
 description: "Instagram user profile of Thuy Phuong Ng."
-active: instagram
+active: gallery
 images: 
 - image_path: /imphuon.g/-1/20230301_184148_333466255_209784844929959_870494974932525911_n.jpg
   instagram-folder: /instagram/ig.imphuon.g/-1/

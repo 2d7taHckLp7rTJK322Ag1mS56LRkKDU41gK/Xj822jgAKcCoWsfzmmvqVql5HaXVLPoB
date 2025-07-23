@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "satin - Part ngocxx.12"
 description: "Instagram album of satin, part ngocxx.12."
-active: instagram
+active: gallery
 album-title: "satin"
 images:
   - image_path: satin/ngocxx.12/20231213_134205_410348767_18322466473128170_3255843587164757816_n.jpg

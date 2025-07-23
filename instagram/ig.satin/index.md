@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "satin"
 description: "Instagram user profile of satin."
-active: instagram
+active: gallery
 images: 
 - image_path: /satin/chin_19022/20221120_151151_316157719_2137327493134685_3187302902173809504_n.jpg
   instagram-folder: /instagram/ig.satin/chin_19022/

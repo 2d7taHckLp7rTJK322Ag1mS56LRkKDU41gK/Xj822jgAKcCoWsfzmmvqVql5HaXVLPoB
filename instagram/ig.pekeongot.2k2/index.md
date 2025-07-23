@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trương Võ Huyền Trân"
 description: "Instagram user profile of Trương Võ Huyền Trân."
-active: instagram
+active: gallery
 images: 
 - image_path: /pekeongot.2k2/-1/20190511_220004_59472920_875059756186911_6947914656426542006_n.jpg
   instagram-folder: /instagram/ig.pekeongot.2k2/-1/

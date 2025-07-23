@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "_SU🎀 - Part quần ngắn"
 description: "Instagram album of _SU🎀, part quần ngắn."
-active: instagram
+active: gallery
 album-title: "_SU🎀"
 images:
   - image_path: _sulyu/quần ngắn/20231206_221756_407994106_1066662697673097_7436344699206485357_n.jpg

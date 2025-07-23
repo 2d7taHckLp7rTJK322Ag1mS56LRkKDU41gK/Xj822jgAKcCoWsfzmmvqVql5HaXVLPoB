@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "ndien.205"
 description: "Instagram user profile of ndien.205."
-active: instagram
+active: gallery
 images: 
 - image_path: /ndien.205/1/20240512_174758_436351122_428013509968901_314200927198893975_n.jpg
   instagram-folder: /instagram/ig.ndien.205/1/

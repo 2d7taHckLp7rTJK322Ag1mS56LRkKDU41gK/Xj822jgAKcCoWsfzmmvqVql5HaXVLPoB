@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Chunn ✿∘ɷ∘✿"
 description: "Instagram user profile of Chunn ✿∘ɷ∘✿."
-active: instagram
+active: gallery
 images: 
 - image_path: /ngocxx.12/-1/20230607_095236_351669017_1003722883955327_5763973491815017961_n.jpg
   instagram-folder: /instagram/ig.ngocxx.12/-1/

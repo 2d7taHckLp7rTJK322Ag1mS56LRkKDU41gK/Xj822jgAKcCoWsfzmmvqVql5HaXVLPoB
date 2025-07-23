@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "mianh.1001 - Part bikini"
 description: "Instagram album of mianh.1001, part bikini."
-active: instagram
+active: gallery
 album-title: "mianh.1001"
 images:
   - image_path: mianh.1001/bikini/20230812_114250_364778085_17987890514214000_4670069144013358145_n.jpg

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Lê Thị Kim Cương"
 description: "Instagram user profile of Lê Thị Kim Cương."
-active: instagram
+active: gallery
 images: 
 - image_path: /kcuong_1903/1/20240206_181511_485370429_2126514077790474_4699931617037724680_n.jpg
   instagram-folder: /instagram/ig.kcuong_1903/1/

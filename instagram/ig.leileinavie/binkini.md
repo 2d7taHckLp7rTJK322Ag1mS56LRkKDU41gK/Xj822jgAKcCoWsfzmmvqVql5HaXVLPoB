@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "leileinavie - Part binkini"
 description: "Instagram album of leileinavie, part binkini."
-active: instagram
+active: gallery
 album-title: "leileinavie"
 images:
   - image_path: leileinavie/binkini/20240314_165049_432827943_1177599873225978_7764645924330358126_n.jpg

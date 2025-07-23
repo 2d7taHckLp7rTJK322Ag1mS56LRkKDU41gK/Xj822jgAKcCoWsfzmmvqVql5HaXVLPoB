@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Bui Ngoc Nhien"
 description: "Instagram user profile of Bui Ngoc Nhien."
-active: instagram
+active: gallery
 images: 
 - image_path: /libly.10/0/20250406_180455_488586027_18000234062770441_5722253366666128126_n.jpg
   instagram-folder: /instagram/ig.libly.10/0/

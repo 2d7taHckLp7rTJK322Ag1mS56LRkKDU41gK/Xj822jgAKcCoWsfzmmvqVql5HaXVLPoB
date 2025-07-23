@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "mianh.1001"
 description: "Instagram user profile of mianh.1001."
-active: instagram
+active: gallery
 images: 
 - image_path: /mianh.1001/bikini/20230812_114250_364778085_17987890514214000_4670069144013358145_n.jpg
   instagram-folder: /instagram/ig.mianh.1001/bikini/

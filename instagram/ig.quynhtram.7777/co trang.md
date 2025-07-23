@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Quỳnh Trâm - Part co trang"
 description: "Instagram album of Quỳnh Trâm, part co trang."
-active: instagram
+active: gallery
 album-title: "Quỳnh Trâm"
 images:
   - image_path: quynhtram.7777/co trang/20200208_125750_83556658_3141197592566840_8303950276793238686_n.jpg

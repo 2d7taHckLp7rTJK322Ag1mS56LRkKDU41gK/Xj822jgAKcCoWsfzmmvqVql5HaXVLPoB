@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "𝓝𝓰𝓾𝔂𝓮̂̃𝓷 𝓣𝓱𝓲̣ 𝓣𝓱𝓾𝔂̀ 𝓛𝓲𝓷𝓱"
 description: "Instagram user profile of 𝓝𝓰𝓾𝔂𝓮̂̃𝓷 𝓣𝓱𝓲̣ 𝓣𝓱𝓾𝔂̀ 𝓛𝓲𝓷𝓱."
-active: instagram
+active: gallery
 images: 
 - image_path: /linhlig1102/1/20190913_163342_69104711_741871692930635_3799131313269528585_n.jpg
   instagram-folder: /instagram/ig.linhlig1102/1/

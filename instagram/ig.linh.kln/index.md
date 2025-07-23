@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉"
 description: "Instagram user profile of 𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉."
-active: instagram
+active: gallery
 images: 
 - image_path: /linh.kln/japan/20240227_211655_429587135_1097415224915468_3415985951360099023_n.jpg
   instagram-folder: /instagram/ig.linh.kln/japan/

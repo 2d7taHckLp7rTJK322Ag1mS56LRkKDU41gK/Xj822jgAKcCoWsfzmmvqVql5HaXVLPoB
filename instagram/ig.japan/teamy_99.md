@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "japan - Part teamy_99"
 description: "Instagram album of japan, part teamy_99."
-active: instagram
+active: gallery
 album-title: "japan"
 images:
   - image_path: japan/teamy_99/20240304_195836_431312585_18399759130065911_7212304773075369339_n.jpg

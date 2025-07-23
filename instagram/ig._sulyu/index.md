@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "_SU🎀"
 description: "Instagram user profile of _SU🎀."
-active: instagram
+active: gallery
 images: 
 - image_path: /_sulyu/quần dài/20240203_175241_424560992_921268919577047_8169774877679407313_n.jpg
   instagram-folder: /instagram/ig._sulyu/quần dài/

@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Quỳnh Trâm - Part New folder (3)"
 description: "Instagram album of Quỳnh Trâm, part New folder (3)."
-active: instagram
+active: gallery
 album-title: "Quỳnh Trâm"
 images:
   - image_path: quynhtram.7777/New folder (3)/20200901_124946_118586091_366056061082175_2840704920009305428_n.jpg

@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Phương Linh Võ - Part bikini"
 description: "Instagram album of Phương Linh Võ, part bikini."
-active: instagram
+active: gallery
 album-title: "Phương Linh Võ"
 images:
   - image_path: plinhhhhh/bikini/20190723_194846_66647719_135353544340574_3052302261950490736_n.jpg

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Nguyễn Thùy"
 description: "Instagram user profile of Nguyễn Thùy."
-active: instagram
+active: gallery
 images: 
 - image_path: /luc.thuyy/-1/20230215_153154_330794822_3431526400501557_6258329910538261556_n.jpg
   instagram-folder: /instagram/ig.luc.thuyy/-1/

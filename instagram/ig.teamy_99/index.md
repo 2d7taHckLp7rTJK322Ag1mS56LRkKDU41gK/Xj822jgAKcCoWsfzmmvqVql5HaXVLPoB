@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Nguyễn Trà My"
 description: "Instagram user profile of Nguyễn Trà My."
-active: instagram
+active: gallery
 images: 
 - image_path: /teamy_99/0/20210920_191403_242228139_1581601022181013_2038206486455308856_n.jpg
   instagram-folder: /instagram/ig.teamy_99/0/

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "minhminh_014"
 description: "Instagram user profile of minhminh_014."
-active: instagram
+active: gallery
 images: 
 - image_path: /minhminh_014/ao_dai/Snaptik.app_74672772318495081042.jpg
   instagram-folder: /instagram/ig.minhminh_014/ao_dai/

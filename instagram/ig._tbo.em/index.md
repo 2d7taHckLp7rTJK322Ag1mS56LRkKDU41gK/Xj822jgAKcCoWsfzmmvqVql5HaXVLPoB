@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trương Trần Thảo Bo"
 description: "Instagram user profile of Trương Trần Thảo Bo."
-active: instagram
+active: gallery
 images: 
 - image_path: /_tbo.em/1/20221028_151449_312829397_634050428358030_5629274324396254580_n.jpg
   instagram-folder: /instagram/ig._tbo.em/1/

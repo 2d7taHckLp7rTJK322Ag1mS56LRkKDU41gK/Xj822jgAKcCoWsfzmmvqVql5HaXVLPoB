@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "𝑷𝒚𝒏"
 description: "Instagram user profile of 𝑷𝒚𝒏."
-active: instagram
+active: gallery
 images: 
 - image_path: /npnhi_00/0/20240320_192531_434009896_1427880127831266_7010472295001184862_n.jpg
   instagram-folder: /instagram/ig.npnhi_00/0/

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trịnh Thị Hải"
 description: "Instagram user profile of Trịnh Thị Hải."
-active: instagram
+active: gallery
 images: 
 - image_path: /iamhaiiii/1/20240901_174400_457508872_550379163984856_1159785860749409901_n.jpg
   instagram-folder: /instagram/ig.iamhaiiii/1/

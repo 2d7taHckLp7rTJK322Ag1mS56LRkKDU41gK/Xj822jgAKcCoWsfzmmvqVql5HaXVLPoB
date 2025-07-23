@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Lê Thị Quỳnh Mai"
 description: "Instagram user profile of Lê Thị Quỳnh Mai."
-active: instagram
+active: gallery
 images: 
 - image_path: /el_iam2606/1/20220424_130254_278961828_970963200269314_6475950310667013060_n.jpg
   instagram-folder: /instagram/ig.el_iam2606/1/

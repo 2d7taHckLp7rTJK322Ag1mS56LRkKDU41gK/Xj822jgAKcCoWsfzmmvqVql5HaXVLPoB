@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Thùy Trang"
 description: "Instagram user profile of Thùy Trang."
-active: instagram
+active: gallery
 images: 
 - image_path: /imnotteee/0/20230706_174404_358046865_212122895130147_3465706036350743692_n.jpg
   instagram-folder: /instagram/ig.imnotteee/0/

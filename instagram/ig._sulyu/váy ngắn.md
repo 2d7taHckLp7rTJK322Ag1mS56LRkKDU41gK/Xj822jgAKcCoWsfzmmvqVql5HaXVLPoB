@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "_SU🎀 - Part váy ngắn"
 description: "Instagram album of _SU🎀, part váy ngắn."
-active: instagram
+active: gallery
 album-title: "_SU🎀"
 images:
   - image_path: _sulyu/váy ngắn/20231223_185505_412384477_1409367226600892_1556114953737945102_n.jpg

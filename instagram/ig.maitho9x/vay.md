@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "maitho9x - Part vay"
 description: "Instagram album of maitho9x, part vay."
-active: instagram
+active: gallery
 album-title: "maitho9x"
 images:
   - image_path: maitho9x/vay/20220118_093741_272058427_622377469000463_491538663819127580_n.jpg

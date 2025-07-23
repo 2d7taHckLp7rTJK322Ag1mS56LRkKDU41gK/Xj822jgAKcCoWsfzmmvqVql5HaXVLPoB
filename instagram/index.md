@@ -1,8 +1,8 @@
 ---
-layout: album_instagram
+layout: album_gallery
 title: "Instagram instagram"
 description: "instagram of Instagram users."
-active: instagram
+active: gallery
 header-img: "img/instagram-bg.jpg"
 images:
 - image_path: /24iz.u/-1/20240912_095935_459243503_1233630894484682_643098887340002909_n.jpg

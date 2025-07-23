@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉 - Part so-mi"
 description: "Instagram album of 𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉, part so-mi."
-active: instagram
+active: gallery
 album-title: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉"
 images:
   - image_path: linh.kln/so-mi/20211116_204553_256793892_6740864205925519_6659654656672296696_n.jpg

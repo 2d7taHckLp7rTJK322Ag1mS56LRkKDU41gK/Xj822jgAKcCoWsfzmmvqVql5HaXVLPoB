@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Dy Nguyên"
 description: "Instagram user profile of Dy Nguyên."
-active: instagram
+active: gallery
 images: 
 - image_path: /dyngyn.nt/1/20250220_212527_480489304_18487747909043946_1699785561089507805_n.jpg
   instagram-folder: /instagram/ig.dyngyn.nt/1/

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "japan"
 description: "Instagram user profile of japan."
-active: instagram
+active: gallery
 images: 
 - image_path: /japan/linh.kln/20240227_211655_429587135_1097415224915468_3415985951360099023_n.jpg
   instagram-folder: /instagram/ig.japan/linh.kln/

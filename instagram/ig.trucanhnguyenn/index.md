@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trúc Anh"
 description: "Instagram user profile of Trúc Anh."
-active: instagram
+active: gallery
 images: 
 - image_path: /trucanhnguyenn/1/486624914_17903894952109740_8719866979350289535_n.jpg
   instagram-folder: /instagram/ig.trucanhnguyenn/1/

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Ngọc Châu"
 description: "Instagram user profile of Ngọc Châu."
-active: instagram
+active: gallery
 images: 
 - image_path: /chaucoor/1/20230928_070047_382587639_18009155467939252_4731554120739510917_n.jpg
   instagram-folder: /instagram/ig.chaucoor/1/

@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "satin - Part quynhtram.7777"
 description: "Instagram album of satin, part quynhtram.7777."
-active: instagram
+active: gallery
 album-title: "satin"
 images:
   - image_path: satin/quynhtram.7777/20210515_170658_185785755_1578030562386992_5283629615853189472_n.jpg

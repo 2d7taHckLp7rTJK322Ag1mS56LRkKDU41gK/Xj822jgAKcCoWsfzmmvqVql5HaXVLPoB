@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "japan - Part trucanhnguyen"
 description: "Instagram album of japan, part trucanhnguyen."
-active: instagram
+active: gallery
 album-title: "japan"
 images:
   - image_path: japan/trucanhnguyen/20250612_210847_505462121_18508871077023506_835232232359070866_n.jpg

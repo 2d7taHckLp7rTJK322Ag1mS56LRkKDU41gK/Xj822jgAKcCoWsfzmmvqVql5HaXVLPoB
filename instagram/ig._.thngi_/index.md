@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "🐚Thnghi𓇼 ᥫ᭡"
 description: "Instagram user profile of 🐚Thnghi𓇼 ᥫ᭡."
-active: instagram
+active: gallery
 images: 
 - image_path: /_.thngi_/aodai/20231215_135037_410537564_18243777595233157_5296820748809734934_n.jpg
   instagram-folder: /instagram/ig._.thngi_/aodai/

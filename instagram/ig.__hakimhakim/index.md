@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Hà Kim 🧸"
 description: "Instagram user profile of Hà Kim 🧸."
-active: instagram
+active: gallery
 images: 
 - image_path: /__hakimhakim/-1/20210905_002756_241492239_834136480629786_2891625760871982240_n.jpg
   instagram-folder: /instagram/ig.__hakimhakim/-1/

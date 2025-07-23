@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trần Bảo Hà"
 description: "Instagram user profile of Trần Bảo Hà."
-active: instagram
+active: gallery
 images: 
 - image_path: /baohatran704/-1/20181206_132739_46093423_1080485302139078_8903431710154292737_n.jpg
   instagram-folder: /instagram/ig.baohatran704/-1/

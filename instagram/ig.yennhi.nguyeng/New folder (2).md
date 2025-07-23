@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Nguyễn Yến Nhi - Part New folder (2)"
 description: "Instagram album of Nguyễn Yến Nhi, part New folder (2)."
-active: instagram
+active: gallery
 album-title: "Nguyễn Yến Nhi"
 images:
   - image_path: yennhi.nguyeng/New folder (2)/20200410_024148_92586982_521554191776317_1305891752890849989_n.jpg

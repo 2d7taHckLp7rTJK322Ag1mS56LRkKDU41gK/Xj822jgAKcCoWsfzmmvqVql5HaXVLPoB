@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Phương Linh Võ"
 description: "Instagram user profile of Phương Linh Võ."
-active: instagram
+active: gallery
 images: 
 - image_path: /plinhhhhh/-1/20190724_194504_66712430_2308580662510382_469962428154578004_n.jpg
   instagram-folder: /instagram/ig.plinhhhhh/-1/

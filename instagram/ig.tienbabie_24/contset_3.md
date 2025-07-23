@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part contset_3"
 description: "Instagram album of Trần Bích Triều Tiên, part contset_3."
-active: instagram
+active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:
   - image_path: tienbabie_24/contset_3/1337667470420908_476083071_1771301377057513_3999931713691257882_n.jpg

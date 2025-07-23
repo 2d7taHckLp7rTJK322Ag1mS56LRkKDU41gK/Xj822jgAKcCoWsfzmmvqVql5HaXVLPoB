@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "tienbabie_dtth"
 description: "Instagram user profile of tienbabie_dtth."
-active: instagram
+active: gallery
 images: 
 - image_path: /tienbabie_dtth/1/set_0 (1).jpg
   instagram-folder: /instagram/ig.tienbabie_dtth/1/

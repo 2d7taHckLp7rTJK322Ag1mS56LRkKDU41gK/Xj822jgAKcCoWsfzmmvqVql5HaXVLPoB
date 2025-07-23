@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trương Võ Huyền Trân - Part New folder"
 description: "Instagram album of Trương Võ Huyền Trân, part New folder."
-active: instagram
+active: gallery
 album-title: "Trương Võ Huyền Trân"
 images:
   - image_path: pekeongot.2k2/New folder/20190525_094654_60557160_550668238791838_2065172595187769869_n.jpg

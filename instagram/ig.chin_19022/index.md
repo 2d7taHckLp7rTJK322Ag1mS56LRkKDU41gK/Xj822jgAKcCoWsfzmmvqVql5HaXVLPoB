@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Thuy Trang Nguyen"
 description: "Instagram user profile of Thuy Trang Nguyen."
-active: instagram
+active: gallery
 images: 
 - image_path: /chin_19022/-1/20221120_151151_316157719_2137327493134685_3187302902173809504_n.jpg
   instagram-folder: /instagram/ig.chin_19022/-1/

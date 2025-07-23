@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "japan - Part __hakimhakim"
 description: "Instagram album of japan, part __hakimhakim."
-active: instagram
+active: gallery
 album-title: "japan"
 images:
   - image_path: japan/__hakimhakim/20240430_124250_439866785_18443519992011320_1874062896974640440_n.jpg

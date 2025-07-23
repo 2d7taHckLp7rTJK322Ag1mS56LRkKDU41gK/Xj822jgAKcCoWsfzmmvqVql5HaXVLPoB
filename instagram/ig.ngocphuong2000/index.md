@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "𝓟𝓸𝓷𝓲𝓮 𝓢𝓾♡"
 description: "Instagram user profile of 𝓟𝓸𝓷𝓲𝓮 𝓢𝓾♡."
-active: instagram
+active: gallery
 images: 
 - image_path: /ngocphuong2000/0/20210128_193759_143819733_795828541277583_366600557517428699_n.jpg
   instagram-folder: /instagram/ig.ngocphuong2000/0/

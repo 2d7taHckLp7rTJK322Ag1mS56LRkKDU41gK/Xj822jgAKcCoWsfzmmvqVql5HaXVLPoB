@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "satin - Part pekeongot.2k2"
 description: "Instagram album of satin, part pekeongot.2k2."
-active: instagram
+active: gallery
 album-title: "satin"
 images:
   - image_path: satin/pekeongot.2k2/20220816_182905_299708823_1263071281124057_7944571854910510993_n.jpg

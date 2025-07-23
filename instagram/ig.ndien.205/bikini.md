@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "ndien.205 - Part bikini"
 description: "Instagram album of ndien.205, part bikini."
-active: instagram
+active: gallery
 album-title: "ndien.205"
 images:
   - image_path: ndien.205/bikini/20230603_190343_484083742_2024963394693906_8976805770500540487_n.jpg

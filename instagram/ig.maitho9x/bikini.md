@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "maitho9x - Part bikini"
 description: "Instagram album of maitho9x, part bikini."
-active: instagram
+active: gallery
 album-title: "maitho9x"
 images:
   - image_path: maitho9x/bikini/20220116_001125_271904464_4840522186000284_5561984548454028347_n.jpg

@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part quandai"
 description: "Instagram album of Trần Bích Triều Tiên, part quandai."
-active: instagram
+active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:
   - image_path: tienbabie_24/quandai/1368423700678618_476026795_1772095500311434_3095331879387847802_n.jpg

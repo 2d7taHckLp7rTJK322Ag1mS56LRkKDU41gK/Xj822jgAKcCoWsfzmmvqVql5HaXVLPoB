@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part vaydai_1"
 description: "Instagram album of Trần Bích Triều Tiên, part vaydai_1."
-active: instagram
+active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:
   - image_path: tienbabie_24/vaydai_1/1490257375161916_480319818_1780096312844686_4125218671302187215_n.jpg

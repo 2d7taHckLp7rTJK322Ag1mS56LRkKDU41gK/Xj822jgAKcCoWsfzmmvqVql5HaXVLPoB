@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Quỳnh Alee"
 description: "Instagram user profile of Quỳnh Alee."
-active: instagram
+active: gallery
 images: 
 - image_path: /q.cutee0812/1/158672446164704_169465070_158672449498037_4593768615840575763_n.jpg
   instagram-folder: /instagram/ig.q.cutee0812/1/

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Nguyễn Yến Nhi"
 description: "Instagram user profile of Nguyễn Yến Nhi."
-active: instagram
+active: gallery
 images: 
 - image_path: /yennhi.nguyeng/-1/20220410_154343_278053399_357580563066843_1359707325887893549_n.jpg
   instagram-folder: /instagram/ig.yennhi.nguyeng/-1/

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Lâm Vũ Song Tuyến"
 description: "Instagram user profile of Lâm Vũ Song Tuyến."
-active: instagram
+active: gallery
 images: 
 - image_path: /_beeemm_/-1/20220727_185733_295659211_188665463515463_2947209009069416101_n.jpg
   instagram-folder: /instagram/ig._beeemm_/-1/

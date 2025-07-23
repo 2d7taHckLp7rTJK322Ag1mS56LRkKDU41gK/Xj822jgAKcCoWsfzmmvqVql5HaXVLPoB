@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "maitho9x"
 description: "Instagram user profile of maitho9x."
-active: instagram
+active: gallery
 images: 
 - image_path: /maitho9x/bikini/20220116_001125_271904464_4840522186000284_5561984548454028347_n.jpg
   instagram-folder: /instagram/ig.maitho9x/bikini/

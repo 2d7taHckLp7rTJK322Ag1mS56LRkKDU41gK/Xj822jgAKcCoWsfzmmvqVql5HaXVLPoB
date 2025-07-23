@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "minhminh_014 - Part New folder"
 description: "Instagram album of minhminh_014, part New folder."
-active: instagram
+active: gallery
 album-title: "minhminh_014"
 images:
   - image_path: minhminh_014/New folder/Snaptik.app_73682621093455004322.jpg

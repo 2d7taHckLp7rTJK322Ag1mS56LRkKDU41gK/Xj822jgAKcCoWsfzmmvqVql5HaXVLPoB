@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "🐚Thnghi𓇼 ᥫ᭡ - Part New folder (8)"
 description: "Instagram album of 🐚Thnghi𓇼 ᥫ᭡, part New folder (8)."
-active: instagram
+active: gallery
 album-title: "🐚Thnghi𓇼 ᥫ᭡"
 images:
   - image_path: _.thngi_/New folder (8)/20241004_151438_461913332_1272091590634842_4556228319410641971_n.jpg

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Trang Phạm (Huyen Trang Pham)"
 description: "Instagram user profile of Trang Phạm (Huyen Trang Pham)."
-active: instagram
+active: gallery
 images: 
 - image_path: /trangg.phaam/0/20220609_201026_286400238_577126460441014_2008822719025806882_n.jpg
   instagram-folder: /instagram/ig.trangg.phaam/0/

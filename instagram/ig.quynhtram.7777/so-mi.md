@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Quỳnh Trâm - Part so-mi"
 description: "Instagram album of Quỳnh Trâm, part so-mi."
-active: instagram
+active: gallery
 album-title: "Quỳnh Trâm"
 images:
   - image_path: quynhtram.7777/so-mi/20200826_021517_118229216_1016431148776996_1320809671550817948_n.jpg

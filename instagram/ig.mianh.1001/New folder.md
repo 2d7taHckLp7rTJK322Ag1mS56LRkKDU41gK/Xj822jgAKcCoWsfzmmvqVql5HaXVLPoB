@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "mianh.1001 - Part New folder"
 description: "Instagram album of mianh.1001, part New folder."
-active: instagram
+active: gallery
 album-title: "mianh.1001"
 images:
   - image_path: mianh.1001/New folder/20230917_193241_379670462_17992423343214000_28079941155144246_n.jpg

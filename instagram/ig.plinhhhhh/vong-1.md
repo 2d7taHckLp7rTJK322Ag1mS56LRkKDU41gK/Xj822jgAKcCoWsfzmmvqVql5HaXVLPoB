@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Phương Linh Võ - Part vong-1"
 description: "Instagram album of Phương Linh Võ, part vong-1."
-active: instagram
+active: gallery
 album-title: "Phương Linh Võ"
 images:
   - image_path: plinhhhhh/vong-1/20190723_115216_66654592_152854512555490_5181816854173098855_n.jpg

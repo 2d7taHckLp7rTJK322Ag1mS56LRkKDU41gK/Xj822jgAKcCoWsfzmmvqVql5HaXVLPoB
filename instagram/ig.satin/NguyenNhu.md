@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "satin - Part NguyenNhu"
 description: "Instagram album of satin, part NguyenNhu."
-active: instagram
+active: gallery
 album-title: "satin"
 images:
   - image_path: satin/NguyenNhu/1068128434388665_402999866_1068129237721918_2774767527195796319_n.jpg

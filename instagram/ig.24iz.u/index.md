@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "˙✧˖° ༘⋆｡˚ᴜɴᴜɴ˚⋅♡🪐༘⋆"
 description: "Instagram user profile of ˙✧˖° ༘⋆｡˚ᴜɴᴜɴ˚⋅♡🪐༘⋆."
-active: instagram
+active: gallery
 images: 
 - image_path: /24iz.u/-1/20240912_095935_459243503_1233630894484682_643098887340002909_n.jpg
   instagram-folder: /instagram/ig.24iz.u/-1/

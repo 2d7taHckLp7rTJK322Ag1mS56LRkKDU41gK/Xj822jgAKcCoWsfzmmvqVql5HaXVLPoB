@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "japan - Part linh.kln"
 description: "Instagram album of japan, part linh.kln."
-active: instagram
+active: gallery
 album-title: "japan"
 images:
   - image_path: japan/linh.kln/20240227_211655_429587135_1097415224915468_3415985951360099023_n.jpg

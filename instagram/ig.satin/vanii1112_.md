@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "satin - Part vanii1112_"
 description: "Instagram album of satin, part vanii1112_."
-active: instagram
+active: gallery
 album-title: "satin"
 images:
   - image_path: satin/vanii1112_/20240828_170456_457118901_469765639296271_3461577260146627822_n.jpg

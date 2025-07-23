@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Thuy Trang Nguyen - Part new"
 description: "Instagram album of Thuy Trang Nguyen, part new."
-active: instagram
+active: gallery
 album-title: "Thuy Trang Nguyen"
 images:
   - image_path: chin_19022/new/20241213_123106_470171334_18149632924347304_2965713106770758940_n.jpg

@@ -1,9 +1,9 @@
 ---
-layout: album_instagram
+layout: album_gallery
 resource: instagram
 title: "Quỳnh Trâm"
 description: "Instagram user profile of Quỳnh Trâm."
-active: instagram
+active: gallery
 images: 
 - image_path: /quynhtram.7777/1/20230208_103051_328991973_1938754903140889_1638979020206482867_n.jpg
   instagram-folder: /instagram/ig.quynhtram.7777/1/

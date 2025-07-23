@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part quanngan"
 description: "Instagram album of Trần Bích Triều Tiên, part quanngan."
-active: instagram
+active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:
   - image_path: tienbabie_24/quanngan/1349304062590582_475755312_1771502777037373_122625498441549346_n.jpg

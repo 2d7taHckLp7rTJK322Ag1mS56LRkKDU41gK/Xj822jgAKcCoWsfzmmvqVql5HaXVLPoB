@@ -3,7 +3,7 @@ layout: album
 resource: instagram
 title: "Trần Bích Triều Tiên - Part VayNgan_3"
 description: "Instagram album of Trần Bích Triều Tiên, part VayNgan_3."
-active: instagram
+active: gallery
 album-title: "Trần Bích Triều Tiên"
 images:
   - image_path: tienbabie_24/VayNgan_3/1379951199525868_476817101_1773536446834006_2284784424686302957_n.jpg
