@@ -6,11 +6,11 @@ description: "Instagram user profile of minhminh_014."
 active: gallery
 images: 
 - image_path: /minhminh_014/ao_dai/Snaptik.app_74672772318495081042.jpg
-  instagram-folder: /instagram/ig.minhminh_014/ao_dai/
-  instagram-name: ao_dai
-  instagram-date: May 2025
+  gallery-folder: /instagram/ig.minhminh_014/ao_dai/
+  gallery-name: ao_dai
+  gallery-date: May 2025
 - image_path: /minhminh_014/New folder/Snaptik.app_73682621093455004322.jpg
-  instagram-folder: /instagram/ig.minhminh_014/New folder/
-  instagram-name: New folder
-  instagram-date: May 2025
+  gallery-folder: /instagram/ig.minhminh_014/New folder/
+  gallery-name: New folder
+  gallery-date: May 2025
 ---
