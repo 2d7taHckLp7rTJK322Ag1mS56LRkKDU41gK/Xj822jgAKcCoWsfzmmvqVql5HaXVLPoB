@@ -1,7 +1,7 @@
 ---
 layout: album_gallery
-title: "Instagram instagram"
-description: "instagram of Instagram users."
+title: "Instagram Gallery"
+description: "Gallery of Instagram users."
 active: gallery
 header-img: "img/instagram-bg.jpg"
 images:
