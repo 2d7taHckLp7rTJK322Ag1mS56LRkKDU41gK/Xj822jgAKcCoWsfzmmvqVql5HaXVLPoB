@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "japan - Part trucanhnguyen"
-description: "Instagram album of japan, part trucanhnguyen."
+title: "@japan - Part trucanhnguyen"
+description: "Instagram album of @japan, part trucanhnguyen."
 active: gallery
-album-title: "japan"
+album-title: "@japan"
 images:
   - image_path: japan/trucanhnguyen/20250612_210847_505462121_18508871077023506_835232232359070866_n.jpg
   - image_path: japan/trucanhnguyen/20250612_210847_505711970_18508871065023506_6045603323642651899_n.jpg

@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "satin - Part ngocxx.12"
-description: "Instagram album of satin, part ngocxx.12."
+title: "Memes 👺 - Part ngocxx.12"
+description: "Instagram album of Memes 👺, part ngocxx.12."
 active: gallery
-album-title: "satin"
+album-title: "Memes 👺"
 images:
   - image_path: satin/ngocxx.12/20231213_134205_410348767_18322466473128170_3255843587164757816_n.jpg
   - image_path: satin/ngocxx.12/20231213_134205_410395308_18322466449128170_7659613769047938313_n.jpg

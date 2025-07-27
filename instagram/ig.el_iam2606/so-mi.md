@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Lê Thị Quỳnh Mai - Part so-mi"
-description: "Instagram album of Lê Thị Quỳnh Mai, part so-mi."
+title: "el_iam2606 - Part so-mi"
+description: "Instagram album of el_iam2606, part so-mi."
 active: gallery
-album-title: "Lê Thị Quỳnh Mai"
+album-title: "el_iam2606"
 images:
   - image_path: el_iam2606/so-mi/20220801_201052_296590938_613927790256470_1614950155039285401_n.jpg
   - image_path: el_iam2606/so-mi/20220801_201052_296911853_5343302752430438_557872878393413980_n.jpg

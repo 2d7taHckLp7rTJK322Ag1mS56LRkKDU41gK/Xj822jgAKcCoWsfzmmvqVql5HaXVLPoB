@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "satin - Part _beeemm_"
-description: "Instagram album of satin, part _beeemm_."
+title: "Memes 👺 - Part _beeemm_"
+description: "Instagram album of Memes 👺, part _beeemm_."
 active: gallery
-album-title: "satin"
+album-title: "Memes 👺"
 images:
   - image_path: satin/_beeemm_/20231124_173751_403805682_1348833199112431_8593621213905350936_n.jpg
   - image_path: satin/_beeemm_/20231124_173751_403866564_705299678203652_4246730271279997938_n.jpg

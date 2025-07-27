@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Trương Võ Huyền Trân - Part lung"
-description: "Instagram album of Trương Võ Huyền Trân, part lung."
+title: "pekeongot.2k2 - Part lung"
+description: "Instagram album of pekeongot.2k2, part lung."
 active: gallery
-album-title: "Trương Võ Huyền Trân"
+album-title: "pekeongot.2k2"
 images:
   - image_path: pekeongot.2k2/lung/20240521_175259_472023322_18334280932159460_467778026769177851_n.jpg
   - image_path: pekeongot.2k2/lung/20240521_175329_472143549_18334280923159460_420477843211290915_n.jpg

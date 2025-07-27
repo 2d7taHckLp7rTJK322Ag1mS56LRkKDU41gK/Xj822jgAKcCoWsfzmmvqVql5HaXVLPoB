@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "japan - Part pekeongot.2k2"
-description: "Instagram album of japan, part pekeongot.2k2."
+title: "@japan - Part pekeongot.2k2"
+description: "Instagram album of @japan, part pekeongot.2k2."
 active: gallery
-album-title: "japan"
+album-title: "@japan"
 images:
   - image_path: japan/pekeongot.2k2/20200209_125325_83638636_124752129066955_7957387895663514883_n.jpg
   - image_path: japan/pekeongot.2k2/20200209_125325_83768352_190314745668585_4601604911687137458_n.jpg

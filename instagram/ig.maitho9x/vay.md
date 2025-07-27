@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "maitho9x - Part vay"
-description: "Instagram album of maitho9x, part vay."
+title: "Mai Thỏ - Part vay"
+description: "Instagram album of Mai Thỏ, part vay."
 active: gallery
-album-title: "maitho9x"
+album-title: "Mai Thỏ"
 images:
   - image_path: maitho9x/vay/20220118_093741_272058427_622377469000463_491538663819127580_n.jpg
   - image_path: maitho9x/vay/20220309_082053_275472723_347222893983120_4935267973482468646_n.jpg

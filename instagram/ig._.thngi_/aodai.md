@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "🐚Thnghi𓇼 ᥫ᭡ - Part aodai"
-description: "Instagram album of 🐚Thnghi𓇼 ᥫ᭡, part aodai."
+title: "_.thngi_ - Part aodai"
+description: "Instagram album of _.thngi_, part aodai."
 active: gallery
-album-title: "🐚Thnghi𓇼 ᥫ᭡"
+album-title: "_.thngi_"
 images:
   - image_path: _.thngi_/aodai/20231215_135037_410537564_18243777595233157_5296820748809734934_n.jpg
   - image_path: _.thngi_/aodai/20231215_135037_410538359_18243777586233157_1989028752983060406_n.jpg

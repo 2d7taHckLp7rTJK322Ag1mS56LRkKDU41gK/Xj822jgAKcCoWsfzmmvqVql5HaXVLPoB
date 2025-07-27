@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "maitho9x - Part bikini"
-description: "Instagram album of maitho9x, part bikini."
+title: "Mai Thỏ - Part bikini"
+description: "Instagram album of Mai Thỏ, part bikini."
 active: gallery
-album-title: "maitho9x"
+album-title: "Mai Thỏ"
 images:
   - image_path: maitho9x/bikini/20220116_001125_271904464_4840522186000284_5561984548454028347_n.jpg
   - image_path: maitho9x/bikini/20220214_110450_273956363_653220572547322_4405435700803870435_n.jpg

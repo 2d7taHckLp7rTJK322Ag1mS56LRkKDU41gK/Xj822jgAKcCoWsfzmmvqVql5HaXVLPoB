@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉 - Part japan"
-description: "Instagram album of 𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉, part japan."
+title: "linh.kln - Part japan"
+description: "Instagram album of linh.kln, part japan."
 active: gallery
-album-title: "𝑵𝒈𝒖𝒚𝒆𝒏 𝑯𝒐𝒂𝒏𝒈 𝑲𝒉𝒂𝒏𝒉 𝑳𝒊𝒏𝒉"
+album-title: "linh.kln"
 images:
   - image_path: linh.kln/japan/20240227_211655_429587135_1097415224915468_3415985951360099023_n.jpg
   - image_path: linh.kln/japan/20240227_211655_429824015_950138593119792_4112419741927519942_n.jpg

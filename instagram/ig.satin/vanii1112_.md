@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "satin - Part vanii1112_"
-description: "Instagram album of satin, part vanii1112_."
+title: "Memes 👺 - Part vanii1112_"
+description: "Instagram album of Memes 👺, part vanii1112_."
 active: gallery
-album-title: "satin"
+album-title: "Memes 👺"
 images:
   - image_path: satin/vanii1112_/20240828_170456_457118901_469765639296271_3461577260146627822_n.jpg
   - image_path: satin/vanii1112_/20240828_170456_457254759_534639165805021_8011319085444612119_n.jpg

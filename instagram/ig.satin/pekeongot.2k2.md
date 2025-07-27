@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "satin - Part pekeongot.2k2"
-description: "Instagram album of satin, part pekeongot.2k2."
+title: "Memes 👺 - Part pekeongot.2k2"
+description: "Instagram album of Memes 👺, part pekeongot.2k2."
 active: gallery
-album-title: "satin"
+album-title: "Memes 👺"
 images:
   - image_path: satin/pekeongot.2k2/20220816_182905_299708823_1263071281124057_7944571854910510993_n.jpg
   - image_path: satin/pekeongot.2k2/20220818_194050_299749553_1106936933295545_3079310524039952919_n.jpg

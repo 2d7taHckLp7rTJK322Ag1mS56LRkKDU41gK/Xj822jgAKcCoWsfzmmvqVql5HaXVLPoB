@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "satin - Part NguyenNhu"
-description: "Instagram album of satin, part NguyenNhu."
+title: "Memes 👺 - Part NguyenNhu"
+description: "Instagram album of Memes 👺, part NguyenNhu."
 active: gallery
-album-title: "satin"
+album-title: "Memes 👺"
 images:
   - image_path: satin/NguyenNhu/1068128434388665_402999866_1068129237721918_2774767527195796319_n.jpg
   - image_path: satin/NguyenNhu/1068128464388662_403052150_1068129244388584_6445946916323693952_n.jpg

@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "japan - Part q.cutee0812"
-description: "Instagram album of japan, part q.cutee0812."
+title: "@japan - Part q.cutee0812"
+description: "Instagram album of @japan, part q.cutee0812."
 active: gallery
-album-title: "japan"
+album-title: "@japan"
 images:
   - image_path: japan/q.cutee0812/20240111_141402_417946120_367399919269556_1197403919795698247_n.jpg
   - image_path: japan/q.cutee0812/20240111_141402_417968702_3686609774961646_7523238800324915537_n.jpg

@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Trương Võ Huyền Trân - Part st"
-description: "Instagram album of Trương Võ Huyền Trân, part st."
+title: "pekeongot.2k2 - Part st"
+description: "Instagram album of pekeongot.2k2, part st."
 active: gallery
-album-title: "Trương Võ Huyền Trân"
+album-title: "pekeongot.2k2"
 images:
   - image_path: pekeongot.2k2/st/20220816_182905_299708823_1263071281124057_7944571854910510993_n.jpg
   - image_path: pekeongot.2k2/st/20220818_194050_299749553_1106936933295545_3079310524039952919_n.jpg

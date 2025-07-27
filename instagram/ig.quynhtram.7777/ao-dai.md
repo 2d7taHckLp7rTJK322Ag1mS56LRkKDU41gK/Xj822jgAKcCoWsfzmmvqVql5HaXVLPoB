@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Quỳnh Trâm - Part ao-dai"
-description: "Instagram album of Quỳnh Trâm, part ao-dai."
+title: "quynhtram.7777 - Part ao-dai"
+description: "Instagram album of quynhtram.7777, part ao-dai."
 active: gallery
-album-title: "Quỳnh Trâm"
+album-title: "quynhtram.7777"
 images:
   - image_path: quynhtram.7777/ao-dai/20200109_164043_81495135_1541164989369043_1057492412195067302_n.jpg
   - image_path: quynhtram.7777/ao-dai/20200109_164056_80122971_146348623480363_7511268692215484981_n.jpg

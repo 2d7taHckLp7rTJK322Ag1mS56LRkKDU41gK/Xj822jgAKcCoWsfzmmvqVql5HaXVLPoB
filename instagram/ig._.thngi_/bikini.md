@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "🐚Thnghi𓇼 ᥫ᭡ - Part bikini"
-description: "Instagram album of 🐚Thnghi𓇼 ᥫ᭡, part bikini."
+title: "_.thngi_ - Part bikini"
+description: "Instagram album of _.thngi_, part bikini."
 active: gallery
-album-title: "🐚Thnghi𓇼 ᥫ᭡"
+album-title: "_.thngi_"
 images:
   - image_path: _.thngi_/bikini/20231209_230048_408447781_1081938479667247_3564311520231359694_n.jpg
   - image_path: _.thngi_/bikini/20231209_230048_408724885_1405145753409123_76818756140233656_n.jpg

@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "Trương Võ Huyền Trân - Part New folder"
-description: "Instagram album of Trương Võ Huyền Trân, part New folder."
+title: "pekeongot.2k2 - Part New folder"
+description: "Instagram album of pekeongot.2k2, part New folder."
 active: gallery
-album-title: "Trương Võ Huyền Trân"
+album-title: "pekeongot.2k2"
 images:
   - image_path: pekeongot.2k2/New folder/20190525_094654_60557160_550668238791838_2065172595187769869_n.jpg
   - image_path: pekeongot.2k2/New folder/20190713_232603_67187690_2417159681898233_6573857622888278009_n.jpg

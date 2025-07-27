@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "satin - Part mianh.1001"
-description: "Instagram album of satin, part mianh.1001."
+title: "Memes 👺 - Part mianh.1001"
+description: "Instagram album of Memes 👺, part mianh.1001."
 active: gallery
-album-title: "satin"
+album-title: "Memes 👺"
 images:
   - image_path: satin/mianh.1001/20240107_194310_416916209_18005920364214000_4865527038397256605_n.jpg
   - image_path: satin/mianh.1001/20240107_194310_416956179_18005920382214000_6312568853924943393_n.jpg

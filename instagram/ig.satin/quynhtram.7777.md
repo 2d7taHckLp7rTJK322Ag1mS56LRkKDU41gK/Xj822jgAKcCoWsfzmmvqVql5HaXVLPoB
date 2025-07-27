@@ -1,10 +1,10 @@
 ---
 layout: album
 resource: instagram
-title: "satin - Part quynhtram.7777"
-description: "Instagram album of satin, part quynhtram.7777."
+title: "Memes 👺 - Part quynhtram.7777"
+description: "Instagram album of Memes 👺, part quynhtram.7777."
 active: gallery
-album-title: "satin"
+album-title: "Memes 👺"
 images:
   - image_path: satin/quynhtram.7777/20210515_170658_185785755_1578030562386992_5283629615853189472_n.jpg
   - image_path: satin/quynhtram.7777/20210516_091722_185825025_511982760214852_4470471864252267168_n.jpg
