@@ -1,0 +1,17 @@
+---
+layout: album
+resource: instagram
+title: "quynhtram.7777 - Part New folder (6)"
+description: "Instagram album of quynhtram.7777, part New folder (6)."
+active: gallery
+album-title: "quynhtram.7777"
+images:
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_414497543_361182656524115_408324116621219562_n.jpg
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_414688628_858286262643256_2775099947260847134_n.jpg
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_414716025_1747681219058191_4516119029120301902_n.jpg
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_414725481_918759525851569_6585774078029887585_n.jpg
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_416182206_888404556330223_2582552727257616825_n.jpg
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_416200673_1083617682618554_6568719066768347943_n.jpg
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_416264112_3458448031074101_1321982929703962649_n.jpg
+  - image_path: quynhtram.7777/New folder (6)/20240102_135529_416622651_1088479645697801_7282156467535364557_n.jpg
+---
