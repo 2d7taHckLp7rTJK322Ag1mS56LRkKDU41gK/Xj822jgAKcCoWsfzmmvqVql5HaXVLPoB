@@ -25,6 +25,10 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.QuynhAlee/
   gallery-name: "QuynhAlee"
+- image_path: TranHongVan/1/348853249_1176426463050002_7914831935511173621_n.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.TranHongVan/
+  gallery-name: "TranHongVan"
 - image_path: TranThiQuynhMy/1/7103044636405376_396996589_7103051026404737_1195819587900363968_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.TranThiQuynhMy/
