@@ -41,10 +41,6 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.clothes/
   gallery-name: "clothes"
-- image_path: haphuong6x/0/GTxpR4zWgAA4jKW.jpg
-  resource: facebook
-  gallery-folder: /facebook/ig.haphuong6x/
-  gallery-name: "Hà Phương"
 - image_path: lemylan/Quần dài (1)/234 (1).jpg
   resource: facebook
   gallery-folder: /facebook/ig.lemylan/
