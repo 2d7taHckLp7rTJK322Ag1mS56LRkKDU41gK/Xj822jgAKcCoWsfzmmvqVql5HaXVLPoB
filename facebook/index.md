@@ -21,6 +21,10 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.NguyenNhu(nana)/
   gallery-name: "NguyenNhu(nana)"
+- image_path: NguyenTuongVi(Chuppy)/1/133498419_216835093266343_958888057217507947_n.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.NguyenTuongVi(Chuppy)/
+  gallery-name: "NguyenTuongVi(Chuppy)"
 - image_path: QuynhAlee/1/158672446164704_169465070_158672449498037_4593768615840575763_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.QuynhAlee/
@@ -41,6 +45,10 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.clothes/
   gallery-name: "clothes"
+- image_path: hngnhuw/1/432016139_1843571686110748_2260832082983168565_n.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.hngnhuw/
+  gallery-name: ""
 - image_path: lemylan/Quần dài (1)/234 (1).jpg
   resource: facebook
   gallery-folder: /facebook/ig.lemylan/
