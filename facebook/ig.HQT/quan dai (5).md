@@ -1,0 +1,15 @@
+---
+layout: album
+resource: facebook
+title: "HQT - Part quan dai (5)"
+description: "facebook album of HQT, part quan dai (5)."
+active: gallery
+album-title: "HQT"
+images:
+  - image_path: HQT/quan dai (5)/869001978605727_450099062_869003658605559_7254383603344459318_n.jpg
+  - image_path: HQT/quan dai (5)/869001978605727_452103127_874935714679020_6493408595072029638_n.jpg
+  - image_path: HQT/quan dai (5)/869607458545179_450109856_869607758545149_6165365945381092615_n.jpg
+  - image_path: HQT/quan dai (5)/869607458545179_453648678_884217293750862_6610644948617157766_n.jpg
+  - image_path: HQT/quan dai (5)/869607458545179_453651670_884217057084219_4099216539339437582_n.jpg
+  - image_path: HQT/quan dai (5)/926184036220854_461928071_926186476220610_1818540472424426195_n.jpg
+---
