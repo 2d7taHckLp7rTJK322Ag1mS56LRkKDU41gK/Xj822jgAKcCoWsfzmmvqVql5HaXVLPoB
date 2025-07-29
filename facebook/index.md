@@ -5,10 +5,6 @@ description: "Gallery of facebook users."
 active: gallery
 header-img: "img/facebook-bg.jpg"
 images:
-- image_path: HQT/VayDai/0_730375812468345_404886456_730376395801620_7381170623806509889_n.jpg
-  resource: facebook
-  gallery-folder: /facebook/ig.HQT/
-  gallery-name: "HQT"
 - image_path: KIA/black/1062217731607803_376237924_1062217724941137_4965962934378949833_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.KIA/
