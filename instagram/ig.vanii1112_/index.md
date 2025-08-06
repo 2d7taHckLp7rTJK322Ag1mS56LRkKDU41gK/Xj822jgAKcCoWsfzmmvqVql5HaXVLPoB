@@ -8,5 +8,5 @@ images:
 - image_path: vanii1112_/satin/20240828_170456_457118901_469765639296271_3461577260146627822_n.jpg
   gallery-folder: /instagram/ig.vanii1112_/satin/
   gallery-name: satin
-  gallery-date: July 2025
+  gallery-date: August 2025
 ---

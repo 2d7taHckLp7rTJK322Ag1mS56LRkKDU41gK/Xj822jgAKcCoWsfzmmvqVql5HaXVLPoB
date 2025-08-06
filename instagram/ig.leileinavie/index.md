@@ -8,5 +8,5 @@ images:
 - image_path: leileinavie/binkini/20240314_165049_432827943_1177599873225978_7764645924330358126_n.jpg
   gallery-folder: /instagram/ig.leileinavie/binkini/
   gallery-name: binkini
-  gallery-date: July 2025
+  gallery-date: August 2025
 ---
