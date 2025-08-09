@@ -8,5 +8,5 @@ images:
 - image_path: violet/images/036c00556ddc463d9005583dd9b07343.jpg
   gallery-folder: /facebook/ig.violet/images/
   gallery-name: images
-  gallery-date: July 2025
+  gallery-date: August 2025
 ---

@@ -5,10 +5,6 @@ description: "Gallery of facebook users."
 active: gallery
 header-img: "img/facebook-bg.jpg"
 images:
-- image_path: HQT/VayDai/0_730375812468345_404886456_730376395801620_7381170623806509889_n.jpg
-  resource: facebook
-  gallery-folder: /facebook/ig.HQT/
-  gallery-name: "HQT"
 - image_path: KIA/black/1062217731607803_376237924_1062217724941137_4965962934378949833_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.KIA/
@@ -41,6 +37,10 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.VioletNguyen/
   gallery-name: "VioletNguyen"
+- image_path: aothihoa.413707/-1/508289056_3252605831558888_4410054639223824156_n.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.aothihoa.413707/
+  gallery-name: ""
 - image_path: clothes/Japan/1129664584901716_430743994_1129665394901635_8252488914385102092_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.clothes/
@@ -49,6 +49,10 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.hngnhuw/
   gallery-name: ""
+- image_path: hqt.shop/New folder/10 (1).jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.hqt.shop/
+  gallery-name: ""
 - image_path: lemylan/Quần dài (1)/234 (1).jpg
   resource: facebook
   gallery-folder: /facebook/ig.lemylan/
@@ -56,6 +60,10 @@ images:
 - image_path: quynh.tram.7777/1/487483117_3206473759494274_4622016012220350922_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.quynh.tram.7777/
+  gallery-name: ""
+- image_path: theu.nguyenthi.311/104812449_303865387420502_659643601282813977_n.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.theu.nguyenthi.311/
   gallery-name: ""
 - image_path: violet/images/036c00556ddc463d9005583dd9b07343.jpg
   resource: facebook
