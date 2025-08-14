@@ -57,6 +57,10 @@ images:
   resource: facebook
   gallery-folder: /facebook/ig.lemylan/
   gallery-name: "lemylan"
+- image_path: ngomochanhien6688/New folder/469556724_1290606188618506_3201143724755817636_n.jpg
+  resource: facebook
+  gallery-folder: /facebook/ig.ngomochanhien6688/
+  gallery-name: "Ngô Mộc Hà Nhiên"
 - image_path: quynh.tram.7777/1/487483117_3206473759494274_4622016012220350922_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.quynh.tram.7777/
