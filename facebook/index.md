@@ -5,10 +5,6 @@ description: "Gallery of facebook users."
 active: gallery
 header-img: "img/facebook-bg.jpg"
 images:
-- image_path: KIA/black/1062217731607803_376237924_1062217724941137_4965962934378949833_n.jpg
-  resource: facebook
-  gallery-folder: /facebook/ig.KIA/
-  gallery-name: "KIA"
 - image_path: MyLinh/0/611857597731898_361620763_611857594398565_8393347414291536880_n.jpg
   resource: facebook
   gallery-folder: /facebook/ig.MyLinh/
